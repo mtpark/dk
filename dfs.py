@@ -126,3 +126,25 @@ df['Best / Sal'] = round(df['Best Score']*1000 / df['Salary'], 2)
 df = df.sort_values(by=['Best / Sal'], ascending=False)
 
 print(df.head())
+
+"""
+5. Test code
+"""
+#DK Globals
+MAX_SALARY = 50000
+MAX_QB = 1
+MAX_RB = 2
+MAX_WR = 3
+MAX_TE = 1
+MAX_FLEX = 1
+MAX_DST = 1
+
+
+optimal = df[df['Best / Sal'] > 5]
+
+removal = ['Dak Prescott',
+           'Jordan Reed']
+
+optimal = optimal[~optimal.index.isin(removal)]
+
+df.to_csv(r'hardencsv.csv', index = True)
