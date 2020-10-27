@@ -41,7 +41,7 @@ Download csv by week and name "Week1" etc.
 
 """
 
-CURRENT_WEEK = 6
+CURRENT_WEEK = 7
 
 WEEKS = ['Week' + str(i+1) for i in range(CURRENT_WEEK)]
 
@@ -60,6 +60,7 @@ for the following major cases
 #replace df / DKSalaries name with the name used in fantasypros
 df = df.rename(index={'Patrick Mahomes':'Patrick Mahomes II'})
 df = df.rename(index={'Chris Herndon':'Chris Herndon IV'})
+df = df.rename(index={'Darrell Henderson Jr.':'Darrell Henderson'})
 df = df.rename(index={'DJ Chark Jr.':'D.J. Chark Jr.'})
 df = df.rename(index={'DJ Moore':'D.J. Moore'})
 df = df.rename(index={'DK Metcalf':'D.K. Metcalf'})
@@ -70,6 +71,7 @@ df = df.rename(index={'La\'Mical Perine':'Lamical Perine'})
 df = df.rename(index={'Ray-Ray McCloud III':'Ray-Ray McCloud'})
 df = df.rename(index={'Steven Sims Jr.':'Steven Sims'})
 df = df.rename(index={'La\'Mical Perine':'Lamical Perine'})
+df = df.rename(index={'Van Jefferson Jr.':'Van Jefferson'})
 
 df['Team'] = df['Team'].replace(['JAX'],'JAC')
 df['Opp'] = df['Opp'].replace(['JAX'],'JAC')
