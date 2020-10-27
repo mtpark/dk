@@ -122,7 +122,7 @@ def get_week_scores(player):
     return [get_week_score(player,wk) for wk in WEEKS]
         
 df['All Scores'] = df.index.map(get_week_scores)
-df['Best Score'] = df['All Scores'].map(max)
+df['Best Score'] = df['All Scores'].map(lambda x: np.nanmax(x))
 df['Best / Sal'] = round(df['Best Score']*1000 / df['Salary'], 2)
 
 df = df.sort_values(by=['Best / Sal'], ascending=False)
