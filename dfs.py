@@ -39,9 +39,11 @@ Select PPR
 Note, does not include DK bonus like 300pa or 100yds
 Download csv by week and name "Week1" etc.
 
+Update current week below
+
 """
 
-CURRENT_WEEK = 7
+CURRENT_WEEK = 8
 
 WEEKS = ['Week' + str(i+1) for i in range(CURRENT_WEEK)]
 
@@ -145,7 +147,8 @@ MAX_DST = 1
 optimal = df[df['Best / Sal'] > 5]
 
 removal = ['Dak Prescott',
-           'Jordan Reed']
+           'Jordan Reed', 
+           'Odell Beckham Jr.']
 
 optimal = optimal[~optimal.index.isin(removal)]
 
