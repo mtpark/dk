@@ -43,7 +43,8 @@ Update current week below
 
 """
 
-CURRENT_WEEK = 8
+CURRENT_WEEK = 9
+#minus 1
 
 WEEKS = ['Week' + str(i+1) for i in range(CURRENT_WEEK)]
 

@@ -1,431 +1,443 @@
 Name,Position,Salary,Team,Opp,All Scores,Best Score,Best / Sal
-Dak Prescott,QB,4000,DAL,PIT,"[17.6, 39.8, 29.5, 38.3, 14.4, nan, nan, nan]",39.8,9.95
-Cedrick Wilson,WR,3000,DAL,PIT,"[0.0, 0.0, 27.7, 6.4, 10.6, 3.0, 0.0, -1.1]",27.7,9.23
-Anthony Firkser,TE,2800,TEN,CHI,"[2.5, 8.5, 0.0, nan, 4.9, 25.3, 2.7, 5.6]",25.3,9.04
-Miami Dolphins,DST,2800,MIA,ARI,"[2.0, 2.0, 12.0, 3.0, 12.0, 15.0, nan, 23.0]",23.0,8.21
-Indianapolis Colts,DST,3300,IND,BAL,"[4.0, 15.0, 26.0, 7.0, 5.0, 4.0, nan, 15.0]",26.0,7.88
-Tyler Lockett,WR,6800,SEA,BUF,"[17.2, 19.7, 37.0, 5.9, 8.4, nan, 53.0, 7.3]",53.0,7.79
-Chase Claypool,WR,5700,PIT,DAL,"[6.7, 17.8, 3.4, nan, 42.6, 18.1, 0.8, 13.2]",42.6,7.47
-Baltimore Ravens,DST,3500,BAL,IND,"[15.0, 15.0, 1.0, 6.0, 26.0, 7.0, nan, 4.0]",26.0,7.43
-Dallas Cowboys,DST,2000,DAL,PIT,"[4.0, -3.0, 0.0, -2.0, 9.0, -3.0, 2.0, 13.0]",13.0,6.5
-Justin Jefferson,WR,6100,MIN,DET,"[4.6, 7.4, 30.5, 14.3, 5.3, 39.6, nan, 5.6]",39.6,6.49
-Michael Gallup,WR,4000,DAL,PIT,"[8.0, 7.8, 25.8, 4.9, 11.3, 4.3, 0.0, 13.1]",25.8,6.45
-Jimmy Graham,TE,3800,CHI,TEN,"[11.5, 2.8, 24.0, 7.3, 12.3, 8.4, 8.1, 3.3]",24.0,6.32
-Andy Isabella,WR,3200,ARI,MIA,"[0.0, 8.7, 20.1, 2.3, 5.0, 0.0, 1.7, nan]",20.1,6.28
-Trey Burton,TE,3500,IND,BAL,"[nan, nan, nan, 3.6, 8.3, 21.9, nan, 10.1]",21.9,6.26
-Jonnu Smith,TE,3900,TEN,CHI,"[13.6, 24.4, 11.1, nan, 21.0, 2.3, 1.9, 4.9]",24.4,6.26
-Nyheim Hines,RB,4400,IND,BAL,"[27.3, 1.4, 10.1, 6.2, 5.0, 7.7, nan, 21.2]",27.3,6.2
-Mike Gesicki,TE,4400,MIA,ARI,"[6.0, 27.0, 8.5, 2.5, 14.1, 0.0, nan, 1.8]",27.0,6.14
-Dalton Schultz,TE,3600,DAL,PIT,"[2.1, 21.8, 8.8, 17.2, 1.6, 7.5, 4.2, 11.3]",21.8,6.06
-Kenyan Drake,RB,4700,ARI,MIA,"[14.5, 11.5, 8.9, 3.5, 13.2, 28.4, 5.1, nan]",28.4,6.04
-David Moore,WR,3100,SEA,BUF,"[7.0, 13.8, 1.2, 18.5, 0.0, nan, 8.8, 13.6]",18.5,5.97
-Amari Cooper,WR,5600,DAL,PIT,"[18.1, 16.0, 17.6, 33.4, 4.1, 20.9, 15.5, 1.5]",33.4,5.96
-Dalvin Cook,RB,8200,MIN,DET,"[21.8, 17.1, 25.9, 28.6, 19.9, nan, nan, 48.6]",48.6,5.93
-Buffalo Bills,DST,2400,BUF,SEA,"[8.0, 2.0, 5.0, 6.0, -4.0, 3.0, 14.0, 4.0]",14.0,5.83
-Austin Ekeler,RB,5400,LAC,LV,"[9.7, 18.8, 31.3, 2.4, nan, nan, nan, nan]",31.3,5.8
-Diontae Johnson,WR,5000,PIT,DAL,"[9.7, 23.2, 0.9, nan, 0.8, nan, 29.0, 1.6]",29.0,5.8
-Tyler Kroft,TE,3200,BUF,SEA,"[0.0, 0.0, 18.4, 2.2, 0.0, 1.7, 10.4, 2.1]",18.4,5.75
-Dontrelle Inman,WR,3300,WAS,NYG,"[4.1, 3.7, 18.8, 6.9, 0.8, 9.5, 0.0, nan]",18.8,5.7
-Josh Jacobs,RB,6300,LV,LAC,"[35.9, 13.5, 9.3, 10.3, 22.5, nan, 6.1, 12.9]",35.9,5.7
-DaeSean Hamilton,WR,3200,DEN,ATL,"[2.8, 1.5, 0.0, 1.9, nan, 0.0, 4.6, 18.2]",18.2,5.69
-D.J. Chark Jr.,WR,5200,JAC,HOU,"[11.5, 12.4, nan, 29.5, 4.6, 11.5, 3.6, nan]",29.5,5.67
-Justin Herbert,QB,6800,LAC,LV,"[nan, 23.2, 15.7, 24.0, 27.4, nan, 38.5, 23.2]",38.5,5.66
-Adam Shaheen,TE,2500,MIA,ARI,"[0.0, 1.4, 0.0, 0.0, 7.3, 14.1, nan, 0.0]",14.1,5.64
-Darius Slayton,WR,5000,NYG,WAS,"[28.2, 6.3, 6.3, 7.8, 20.9, 11.8, 4.3, 10.6]",28.2,5.64
-James Washington,WR,3000,PIT,DAL,"[11.4, 5.2, 8.6, nan, 5.5, 16.8, 0.0, 0.0]",16.8,5.6
-Olamide Zaccheaus,WR,3000,ATL,DEN,"[0.0, 2.0, 8.1, 16.6, 2.3, 0.0, 0.0, nan]",16.6,5.53
-Ryan Fitzpatrick,QB,5000,MIA,ARI,"[8.4, 24.3, 25.2, 23.3, 27.6, 18.0, nan, nan]",27.6,5.52
-Mike Williams,WR,5100,LAC,LV,"[10.9, 3.4, 2.7, nan, 27.9, nan, 1.4, 21.0]",27.9,5.47
-Brandin Cooks,WR,5500,HOU,JAC,"[4.0, 14.5, 5.3, 0.0, 30.1, 21.8, 13.0, nan]",30.1,5.47
-D'Andre Swift,RB,5000,DET,MIN,"[11.3, 12.2, 2.9, 15.2, nan, 27.3, 14.8, 5.3]",27.3,5.46
-Kansas City Chiefs,DST,3700,KC,CAR,"[7.0, 5.0, 7.0, 20.0, -1.0, 3.0, 18.0, 7.0]",20.0,5.41
-Adam Humphries,WR,3400,TEN,CHI,"[10.7, 15.8, 8.1, nan, nan, 18.4, 2.9, 0.0]",18.4,5.41
-Mitchell Trubisky,QB,4500,CHI,TEN,"[24.3, 15.2, 12.6, nan, nan, nan, nan, 0.3]",24.3,5.4
-Mo Alie-Cox,TE,3000,IND,BAL,"[4.0, 16.1, 14.0, 8.3, 0.0, nan, nan, 6.7]",16.1,5.37
-Jalen Guyton,WR,3100,LAC,LV,"[2.6, 8.4, 4.3, 14.2, 5.5, nan, 16.4, 1.3]",16.4,5.29
-Marcus Johnson,WR,3000,IND,BAL,"[nan, nan, nan, 3.7, 8.3, 15.8, nan, 5.9]",15.8,5.27
-Carolina Panthers,DST,2100,CAR,KC,"[-1.0, 3.0, 11.0, 3.0, 5.0, 2.0, 3.0, 4.0]",11.0,5.24
-New York Giants,DST,2700,NYG,WAS,"[4.0, 9.0, -2.0, 5.0, 11.0, 14.0, 5.0, 4.0]",14.0,5.19
-Denver Broncos,DST,2700,DEN,ATL,"[2.0, 5.0, 1.0, 6.0, nan, 14.0, 2.0, 5.0]",14.0,5.19
-Arizona Cardinals,DST,2900,ARI,MIA,"[4.0, 9.0, 4.0, 1.0, 7.0, 15.0, 7.0, nan]",15.0,5.17
-CeeDee Lamb,WR,4900,DAL,PIT,"[10.9, 17.5, 11.6, 25.2, 20.4, 13.4, 0.1, 8.6]",25.2,5.14
-D.K. Metcalf,WR,7800,SEA,BUF,"[19.5, 19.2, 19.0, 14.6, 27.3, nan, 4.3, 40.1]",40.1,5.14
-Derrick Henry,RB,7900,TEN,CHI,"[16.1, 8.4, 27.0, nan, 19.3, 40.4, 15.2, 17.2]",40.4,5.11
-Demarcus Robinson,WR,3200,KC,CAR,"[5.0, 5.8, 0.0, nan, 2.2, 11.9, 1.4, 16.3]",16.3,5.09
-Keelan Cole,WR,4000,JAC,HOU,"[15.7, 17.8, 8.3, 8.6, 10.7, 20.3, 2.2, nan]",20.3,5.08
-Preston Williams,WR,4100,MIA,ARI,"[6.1, 5.6, 8.7, 4.5, 20.6, 9.8, nan, 3.5]",20.6,5.02
-Washington Football Team,DST,3400,WAS,NYG,"[15.0, 4.0, 1.0, 4.0, 2.0, 4.0, 17.0, nan]",17.0,5.0
-Hunter Renfrow,WR,4100,LV,LAC,"[4.1, 6.7, 20.4, 10.7, 5.2, nan, 8.2, 12.6]",20.4,4.98
-Patrick Mahomes II,QB,8100,KC,CAR,"[20.4, 27.5, 40.0, 20.2, 30.7, 20.6, 12.0, 36.6]",40.0,4.94
-Matt Ryan,QB,6400,ATL,DEN,"[24.9, 28.5, 12.4, 12.4, 7.9, 31.6, 17.5, 18.9]",31.6,4.94
-Josh Allen,QB,7000,BUF,SEA,"[28.2, 34.5, 32.2, 25.4, 18.3, 16.1, 16.4, 13.5]",34.5,4.93
-Jeff Driskel,QB,4000,DEN,ATL,"[nan, 19.7, 11.4, 0.9, nan, nan, nan, nan]",19.7,4.92
-Nick Boyle,TE,2500,BAL,IND,"[2.3, 2.1, 7.5, 1.9, 1.2, 12.3, nan, 0.0]",12.3,4.92
-Darren Waller,TE,5800,LV,LAC,"[10.5, 28.5, 2.9, 15.8, 15.8, nan, 17.0, 7.7]",28.5,4.91
-Darren Fells,TE,4200,HOU,JAC,"[3.9, 10.3, 0.0, 4.1, 13.7, 20.5, 0.0, nan]",20.5,4.88
-Kyler Murray,QB,7800,ARI,MIA,"[27.3, 33.1, 24.7, 23.1, 27.3, 28.9, 38.1, nan]",38.1,4.88
-Isaiah Ford,WR,3000,MIA,ARI,"[3.3, 14.6, 3.4, 8.8, 4.3, 0.0, nan, 2.0]",14.6,4.87
-Melvin Gordon III,RB,5300,DEN,ATL,"[15.6, 16.4, 7.8, 25.8, nan, nan, 12.0, 10.7]",25.8,4.87
-Curtis Samuel,WR,4400,CAR,KC,"[9.3, 5.9, 9.2, 7.8, 11.4, nan, 17.3, 21.4]",21.4,4.86
-Russell Wilson,QB,7600,SEA,BUF,"[31.8, 34.4, 36.8, 21.9, 25.5, nan, 32.9, 28.7]",36.8,4.84
-Calvin Ridley,WR,7000,ATL,DEN,"[33.9, 29.9, 16.7, 0.0, 21.6, 18.9, 19.9, 7.2]",33.9,4.84
-Kalif Raymond,WR,3000,TEN,CHI,"[0.0, 0.0, 14.5, nan, 4.6, 6.2, 0.0, 2.1]",14.5,4.83
-Jordan Wilkins,RB,4200,IND,BAL,"[0.0, 4.0, 5.5, 4.1, 0.1, -0.1, nan, 20.3]",20.3,4.83
-Ryan Tannehill,QB,6300,TEN,CHI,"[19.4, 26.8, 13.7, nan, 30.0, 29.6, 17.3, 18.3]",30.0,4.76
-Tim Patrick,WR,4900,DEN,ATL,"[6.9, 4.4, 14.3, 23.3, nan, 14.1, 7.4, nan]",23.3,4.76
-Mark Andrews,TE,4800,BAL,IND,"[22.8, 3.9, 5.2, 20.7, 17.6, 4.1, nan, 6.2]",22.8,4.75
-Jesse James,TE,2500,DET,MIN,"[0.0, 0.0, 11.8, 4.1, nan, 1.3, 0.0, 3.3]",11.8,4.72
-Mecole Hardman,WR,4800,KC,CAR,"[1.6, 7.3, 18.1, 12.7, 7.0, 0.0, 9.0, 22.6]",22.6,4.71
-Julio Jones,WR,7200,ATL,DEN,"[24.7, 4.4, nan, 7.2, nan, 33.7, 17.7, 20.7]",33.7,4.68
-Tyler Eifert,TE,2700,JAC,HOU,"[1.8, 12.6, 3.1, 4.2, 4.6, 0.0, nan, nan]",12.6,4.67
-Sammy Watkins,WR,4600,KC,CAR,"[21.5, 2.1, 13.2, 6.3, 10.4, nan, nan, nan]",21.5,4.67
-Albert Okwuegbunam,TE,2800,DEN,ATL,"[nan, nan, nan, nan, nan, 6.5, 13.0, 7.9]",13.0,4.64
-Adam Thielen,WR,6700,MIN,DET,"[31.0, 6.1, 12.3, 26.2, 29.3, 14.1, nan, 5.7]",31.0,4.63
-Nelson Agholor,WR,4700,LV,LAC,"[9.3, 2.9, 5.2, 14.4, 14.7, nan, 21.7, 0.0]",21.7,4.62
-Darnell Mooney,WR,3900,CHI,TEN,"[6.8, 12.6, 3.9, 9.9, 3.5, 6.6, 7.0, 17.9]",17.9,4.59
-Philip Rivers,QB,5600,IND,BAL,"[16.8, 11.9, 12.7, 11.2, 7.6, 25.7, nan, 22.3]",25.7,4.59
-DeeJay Dallas,RB,5000,SEA,BUF,"[nan, nan, 0.0, 4.3, 0.0, nan, 3.8, 22.8]",22.8,4.56
-Corey Davis,WR,5900,TEN,CHI,"[17.1, 12.6, 11.9, nan, nan, nan, 15.5, 26.8]",26.8,4.54
-James Robinson,RB,7000,JAC,HOU,"[10.0, 21.0, 30.9, 14.7, 10.0, 15.3, 31.7, nan]",31.7,4.53
-Russell Gage,WR,4500,ATL,DEN,"[20.4, 16.6, 4.6, 4.0, 3.6, 10.5, 11.4, 4.5]",20.4,4.53
-Teddy Bridgewater,QB,6000,CAR,KC,"[19.4, 10.7, 14.6, 27.2, 20.8, 11.4, 19.2, 13.0]",27.2,4.53
-D.J. Moore,WR,5600,CAR,KC,"[9.4, 20.0, 8.5, 8.9, 19.3, 14.3, 25.3, 7.5]",25.3,4.52
-Deshaun Watson,QB,7100,HOU,JAC,"[21.8, 15.7, 18.1, 20.9, 26.9, 32.0, 24.2, nan]",32.0,4.51
-Mike Davis,RB,6700,CAR,KC,"[0.0, 15.5, 23.1, 22.1, 29.9, 11.5, 8.6, 8.7]",29.9,4.46
-Hayden Hurst,TE,4100,ATL,DEN,"[6.8, 18.2, 7.1, 9.1, 2.8, 15.7, 12.8, 10.4]",18.2,4.44
-Gardner Minshew II,QB,5800,JAC,HOU,"[20.8, 25.5, 10.2, 21.9, 19.8, 19.1, 19.0, nan]",25.5,4.4
-Anthony Miller,WR,4000,CHI,TEN,"[17.6, 0.0, 13.0, 4.6, 6.8, 3.8, 5.0, 15.3]",17.6,4.4
-Derek Carr,QB,5700,LV,LAC,"[13.6, 21.7, 15.4, 20.4, 25.0, nan, 20.3, 12.5]",25.0,4.39
-Randall Cobb,WR,4500,HOU,JAC,"[4.3, 10.9, 19.5, 5.6, 10.7, 10.7, 17.5, nan]",19.5,4.33
-Logan Thomas,TE,3700,WAS,NYG,"[13.7, 6.6, 7.1, 1.8, 1.4, 13.2, 16.0, nan]",16.0,4.32
-Kirk Cousins,QB,6200,MIN,DET,"[22.8, 1.5, 21.4, 14.9, 15.2, 26.7, nan, 10.4]",26.7,4.31
-Keenan Allen,WR,7000,LAC,LV,"[7.7, 16.6, 30.2, 14.2, 10.9, nan, 22.5, 21.7]",30.2,4.31
-Christian Kirk,WR,5300,ARI,MIA,"[1.0, 8.0, nan, 10.9, 12.8, 22.6, 20.7, nan]",22.6,4.26
-Foster Moreau,TE,2500,LV,LAC,"[0.0, 4.1, 10.5, 1.8, 0.0, nan, 0.0, 0.0]",10.5,4.2
-Ezekiel Elliott,RB,6600,DAL,PIT,"[27.7, 22.2, 17.8, 20.5, 23.5, 12.0, 6.1, 8.3]",27.7,4.2
-Noah Fant,TE,4600,DEN,ATL,"[19.1, 17.7, 9.6, 8.5, nan, nan, 6.8, 11.7]",19.1,4.15
-Alexander Mattison,RB,4000,MIN,DET,"[12.0, 2.6, 2.7, 7.7, 16.6, 4.0, nan, 0.8]",16.6,4.15
-A.J. Brown,WR,6600,TEN,CHI,"[8.9, nan, nan, nan, 21.2, 22.8, 27.3, 12.4]",27.3,4.14
-John Brown,WR,4600,BUF,SEA,"[19.0, 18.2, 0.0, 8.2, nan, 0.0, nan, 3.1]",19.0,4.13
-Cole Beasley,WR,5400,BUF,SEA,"[9.8, 12.0, 16.0, 12.2, 11.3, 14.5, 22.2, 4.4]",22.2,4.11
-Allen Robinson II,WR,6900,CHI,TEN,"[12.3, 6.3, 28.3, 23.1, 19.0, 10.3, 11.0, 20.7]",28.3,4.1
-Tyron Johnson,WR,3000,LAC,LV,"[nan, nan, nan, 12.3, 0.7, nan, 1.0, nan]",12.3,4.1
-Lamar Jackson,QB,6900,BAL,IND,"[27.5, 17.6, 14.2, 26.0, 14.5, 28.2, nan, 16.8]",28.2,4.09
-Robby Anderson,WR,6300,CAR,KC,"[25.5, 17.9, 10.5, 17.9, 19.5, 11.7, 13.4, 9.8]",25.5,4.05
-Henry Ruggs III,WR,4900,LV,LAC,"[9.6, 1.4, nan, nan, 19.8, nan, 6.5, 2.9]",19.8,4.04
-DeVante Parker,WR,5200,MIA,ARI,"[8.7, 16.3, 11.9, 21.0, 13.0, 6.5, nan, 7.3]",21.0,4.04
-Marvin Hall,WR,3800,DET,MIN,"[3.6, 9.4, 0.0, 0.0, nan, 1.7, 0.0, 15.3]",15.3,4.03
-Todd Gurley II,RB,6200,ATL,DEN,"[13.7, 6.1, 15.2, 19.3, 25.0, 9.7, 22.2, 10.6]",25.0,4.03
-JuJu Smith-Schuster,WR,6200,PIT,DAL,"[24.9, 11.8, 16.3, nan, 6.8, 2.6, 17.5, 13.7]",24.9,4.02
-Daniel Jones,QB,5400,NYG,WAS,"[19.4, 8.7, 9.1, 11.1, 8.2, 14.9, 21.7, 18.2]",21.7,4.02
-Collin Johnson,WR,3000,JAC,HOU,"[2.4, 0.0, 1.3, 0.0, 12.0, 0.0, 2.3, nan]",12.0,4.0
-Willie Snead IV,WR,4100,BAL,IND,"[16.4, 4.9, 2.4, 4.0, 0.0, 4.2, nan, 15.6]",16.4,4.0
-Parris Campbell,WR,3500,IND,BAL,"[14.0, 0.7, nan, nan, nan, nan, nan, nan]",14.0,4.0
-Greg Olsen,TE,3100,SEA,BUF,"[12.4, 0.0, 11.1, 8.5, 3.0, nan, 3.8, 0.0]",12.4,4.0
-Drew Lock,QB,5200,DEN,ATL,"[13.1, -1.2, nan, nan, nan, 5.5, 15.0, 20.8]",20.8,4.0
-Cole Kmet,TE,2500,CHI,TEN,"[0.0, 2.2, 0.0, 0.0, 0.0, 10.0, 6.5, 1.2]",10.0,4.0
-Devin Singletary,RB,4700,BUF,SEA,"[10.3, 9.6, 16.1, 18.7, 4.3, 5.5, 6.7, 10.2]",18.7,3.98
-Kenny Stills,WR,3000,HOU,JAC,"[0.0, 3.6, 6.5, 11.9, 2.4, 0.0, 5.4, nan]",11.9,3.97
-Irv Smith Jr.,TE,2900,MIN,DET,"[2.1, 1.3, 0.0, 0.0, 10.4, 11.5, nan, 2.6]",11.5,3.97
-Stefon Diggs,WR,7400,BUF,SEA,"[16.6, 29.3, 14.9, 17.5, 20.6, 16.6, 10.8, 15.2]",29.3,3.96
-Dwayne Haskins,QB,4800,WAS,NYG,"[12.8, 11.7, 12.2, 18.9, nan, nan, nan, nan]",18.9,3.94
-Antonio Gibson,RB,5800,WAS,NYG,"[6.4, 12.2, 13.0, 22.8, 10.1, 9.5, 18.8, nan]",22.8,3.93
-Jason Witten,TE,2500,LV,LAC,"[1.2, 1.3, 0.0, 9.8, 2.6, nan, 1.6, 4.1]",9.8,3.92
-Terry McLaurin,WR,6500,WAS,NYG,"[11.1, 25.5, 12.6, 21.8, 5.6, 14.4, 22.0, nan]",25.5,3.92
-Zack Moss,RB,5200,BUF,SEA,"[11.7, 3.7, nan, nan, nan, 1.0, 10.2, 20.1]",20.1,3.87
-Chris Carson,RB,6500,SEA,BUF,"[24.6, 19.8, 10.6, 25.0, 19.9, nan, 5.1, nan]",25.0,3.85
-Virgil Green,TE,2500,LAC,LV,"[2.0, 0.0, 0.0, 0.0, 2.4, nan, 9.6, nan]",9.6,3.84
-David Montgomery,RB,5700,CHI,TEN,"[8.4, 21.7, 7.4, 10.7, 18.9, 13.7, 11.9, 12.5]",21.7,3.81
-Dion Lewis,RB,4100,NYG,WAS,"[0.1, 15.6, 2.0, 3.8, 2.1, 2.0, 0.3, 8.8]",15.6,3.8
-Jordan Akins,TE,3300,HOU,JAC,"[11.9, 12.5, 4.8, 7.6, nan, nan, nan, nan]",12.5,3.79
-Gabriel Davis,WR,3200,BUF,SEA,"[3.6, 7.6, 12.1, 9.6, 10.8, 1.7, 2.1, 0.0]",12.1,3.78
-Brian Hill,RB,4000,ATL,DEN,"[4.0, 4.5, 15.0, 4.3, 7.4, 3.4, 6.0, 8.4]",15.0,3.75
-Chicago Bears,DST,3200,CHI,TEN,"[3.0, 12.0, 4.0, 2.0, 6.0, 11.0, 9.0, 1.0]",12.0,3.75
-Larry Fitzgerald,WR,3800,ARI,MIA,"[7.4, 12.0, 1.0, 2.4, 7.5, 5.2, 14.2, nan]",14.2,3.74
-Sterling Shepard,WR,4800,NYG,WAS,"[10.7, 5.5, nan, nan, nan, nan, 17.9, 15.4]",17.9,3.73
-Peyton Barber,RB,4000,WAS,NYG,"[14.9, 0.1, 0.6, 0.5, 0.0, 2.0, 3.4, nan]",14.9,3.72
-Marvin Jones Jr.,WR,5100,DET,MIN,"[9.5, 12.3, 8.1, 1.9, nan, 2.8, 13.0, 18.9]",18.9,3.71
-Donald Parham Jr.,TE,2500,LAC,LV,"[nan, nan, nan, 8.9, 0.0, nan, 9.2, nan]",9.2,3.68
-Los Angeles Chargers,DST,3000,LAC,LV,"[11.0, 1.0, 2.0, 4.0, 3.0, nan, 8.0, 3.0]",11.0,3.67
-Pittsburgh Steelers,DST,4900,PIT,DAL,"[8.0, 13.0, 7.0, nan, 8.0, 18.0, 2.0, 18.0]",18.0,3.67
-Jacob Hollister,TE,2500,SEA,BUF,"[1.9, 0.0, 9.1, 0.0, 0.0, nan, 5.2, 1.6]",9.1,3.64
-Devonta Freeman,RB,4600,NYG,WAS,"[nan, nan, 1.0, 10.8, 16.7, 6.7, 0.8, nan]",16.7,3.63
-Tyreek Hill,WR,7100,KC,CAR,"[15.6, 21.8, 21.2, 16.4, 18.3, 5.5, 17.5, 25.8]",25.8,3.63
-Troymaine Pope,RB,4000,LAC,LV,"[nan, nan, nan, nan, 0.0, nan, 0.6, 14.5]",14.5,3.62
-James Conner,RB,6900,PIT,DAL,"[3.7, 20.1, 24.9, nan, 15.3, 17.2, 14.1, 15.0]",24.9,3.61
-Adrian Peterson,RB,4000,DET,MIN,"[14.4, 4.1, 9.5, 9.6, nan, 12.8, 4.0, 2.2]",14.4,3.6
-Jacksonville Jaguars,DST,2500,JAC,HOU,"[6.0, 0.0, 0.0, 2.0, 4.0, 1.0, 9.0, nan]",9.0,3.6
-Eric Ebron,TE,4500,PIT,DAL,"[2.8, 7.3, 16.2, nan, 7.3, 2.9, 11.0, 14.8]",16.2,3.6
-T.J. Yeldon,RB,4000,BUF,SEA,"[nan, nan, 1.8, 0.0, 14.4, nan, nan, nan]",14.4,3.6
-Zach Pascal,WR,4300,IND,BAL,"[3.8, 10.9, 5.4, 8.8, 3.5, 15.4, nan, 7.4]",15.4,3.58
-Hunter Henry,TE,4000,LAC,LV,"[12.3, 14.3, 10.0, 5.9, 12.3, nan, 5.3, 7.3]",14.3,3.58
-Will Fuller V,WR,6800,HOU,JAC,"[19.2, 0.0, 15.4, 22.8, 15.8, 24.3, 12.5, nan]",24.3,3.57
-Isaiah McKenzie,WR,3000,BUF,SEA,"[4.7, 6.7, 2.0, 3.9, 10.7, 1.4, 2.3, nan]",10.7,3.57
-DeAndre Hopkins,WR,8200,ARI,MIA,"[29.1, 20.8, 23.7, 11.1, 25.1, 9.3, 24.3, nan]",29.1,3.55
-Matthew Stafford,QB,6600,DET,MIN,"[17.2, 17.2, 18.5, 23.3, nan, 13.3, 18.4, 23.4]",23.4,3.55
-Laviska Shenault Jr.,WR,4200,JAC,HOU,"[13.7, 10.2, 8.4, 14.1, 14.9, 4.1, 7.4, nan]",14.9,3.55
-David Johnson,RB,5600,HOU,JAC,"[19.9, 7.0, 12.6, 11.2, 12.3, 13.9, 16.4, nan]",19.9,3.55
-Brett Rypien,QB,4000,DEN,ATL,"[nan, nan, 1.1, 14.2, nan, nan, 0.0, nan]",14.2,3.55
-Danny Amendola,WR,3700,DET,MIN,"[13.1, 4.1, 2.8, 7.7, nan, 5.1, 9.2, 8.4]",13.1,3.54
-Justin Jackson,RB,4900,LAC,LV,"[0.4, nan, nan, 4.1, 14.4, nan, 10.5, 17.2]",17.2,3.51
-Ray-Ray McCloud,WR,3000,PIT,DAL,"[0.0, 0.0, 0.0, nan, 10.5, 0.0, 3.2, 1.6]",10.5,3.5
-Travis Kelce,TE,7200,KC,CAR,"[17.0, 24.0, 14.7, 10.0, 24.8, 21.5, 6.1, 24.9]",24.9,3.46
-Las Vegas Raiders,DST,2600,LV,LAC,"[0.0, 2.0, 3.0, 0.0, 4.0, nan, -4.0, 9.0]",9.0,3.46
-Clyde Edwards-Helaire,RB,6100,KC,CAR,"[19.8, 13.0, 18.4, 12.1, 11.0, 20.9, 13.3, 6.1]",20.9,3.43
-Jack Doyle,TE,2900,IND,BAL,"[7.9, nan, 0.0, 2.2, 0.0, 9.9, nan, 9.8]",9.9,3.41
-Myles Gaskin,RB,5900,MIA,ARI,"[10.6, 14.2, 14.5, 9.2, 20.1, 16.6, nan, 13.3]",20.1,3.41
-Ben Roethlisberger,QB,6500,PIT,DAL,"[22.1, 19.2, 19.2, nan, 21.4, 11.0, 15.6, 15.3]",22.1,3.4
-J.D. McKissic,RB,4300,WAS,NYG,"[0.9, 5.3, 8.2, 9.6, 10.9, 14.4, 7.1, nan]",14.4,3.35
-Christian McCaffrey,RB,8500,CAR,KC,"[28.4, 24.8, nan, nan, nan, nan, nan, nan]",28.4,3.34
-T.J. Hockenson,TE,5100,DET,MIN,"[16.6, 10.2, 9.3, 10.9, nan, 9.7, 16.9, 13.5]",16.9,3.31
-Nick Foles,QB,5500,CHI,TEN,"[nan, nan, 18.2, 12.9, 12.6, 17.3, 8.4, 17.9]",18.2,3.31
-Marquise Brown,WR,6000,BAL,IND,"[15.1, 9.2, 3.3, 12.6, 19.8, 9.7, nan, 7.3]",19.8,3.3
-Will Dissly,TE,2700,SEA,BUF,"[2.8, 1.9, 2.5, 3.5, 8.9, nan, 5.8, 2.7]",8.9,3.3
-Chris Conley,WR,3000,JAC,HOU,"[1.6, 8.8, 6.4, 7.4, 7.8, 1.6, 9.8, nan]",9.8,3.27
-Mark Ingram II,RB,4800,BAL,IND,"[2.9, 15.7, 3.0, 10.7, 5.7, 2.0, nan, nan]",15.7,3.27
-Carlos Hyde,RB,5100,SEA,BUF,"[8.3, 5.7, 3.3, nan, nan, nan, 16.6, nan]",16.6,3.25
-Kyle Allen,QB,5300,WAS,NYG,"[nan, nan, nan, nan, 9.7, 17.0, 16.9, nan]",17.0,3.21
-Seattle Seahawks,DST,2800,SEA,BUF,"[6.0, 3.0, 9.0, 5.0, 7.0, nan, 0.0, 7.0]",9.0,3.21
-Courtland Sutton,WR,3000,DEN,ATL,"[nan, 9.6, nan, nan, nan, nan, nan, nan]",9.6,3.2
-Golden Tate,WR,3700,NYG,WAS,"[nan, 9.7, 8.6, 6.0, 8.2, 2.1, 10.9, 11.8]",11.8,3.19
-Jonathan Taylor,RB,6000,IND,BAL,"[14.9, 19.0, 13.2, 8.9, 15.4, 15.5, nan, 5.1]",19.0,3.17
-Chase Edmonds,RB,6800,ARI,MIA,"[13.5, 4.3, 5.4, 15.0, 20.2, 3.9, 21.5, nan]",21.5,3.16
-Saquon Barkley,RB,4000,NYG,WAS,"[12.6, 2.8, nan, nan, nan, nan, nan, nan]",12.6,3.15
-Miles Boykin,WR,3200,BAL,IND,"[6.7, 7.8, 1.8, 4.8, 0.0, 2.1, nan, 10.0]",10.0,3.12
-Cam Sims,WR,3000,WAS,NYG,"[0.0, 0.0, 0.0, 3.7, 0.0, 9.2, 3.2, nan]",9.2,3.07
-Gus Edwards,RB,4800,BAL,IND,"[1.7, 7.3, 3.9, 3.8, 2.5, 8.6, nan, 14.7]",14.7,3.06
-Detroit Lions,DST,2300,DET,MIN,"[1.0, -3.0, 7.0, 0.0, nan, 6.0, 4.0, -2.0]",7.0,3.04
-Ian Thomas,TE,2800,CAR,KC,"[3.6, 0.0, 1.9, 8.5, 0.0, 1.9, 2.1, 5.8]",8.5,3.04
-Freddie Swain,WR,3000,SEA,BUF,"[2.7, 9.1, 2.3, 5.2, 3.4, nan, 0.0, nan]",9.1,3.03
-KJ Hamler,WR,3400,DEN,ATL,"[nan, 8.7, 5.8, 0.0, nan, nan, 5.4, 10.3]",10.3,3.03
-Joshua Kelley,RB,4400,LAC,LV,"[12.0, 13.3, 5.2, 4.3, 4.8, nan, 10.3, 3.5]",13.3,3.02
-Phillip Lindsay,RB,5200,DEN,ATL,"[4.5, nan, nan, nan, nan, 10.1, 7.9, 15.6]",15.6,3.0
-Jerry Jeudy,WR,4700,DEN,ATL,"[9.6, 10.2, 10.5, 14.1, nan, 5.2, 4.0, 11.3]",14.1,3.0
-Durham Smythe,TE,2500,MIA,ARI,"[0.0, 0.0, 1.7, 5.0, nan, 7.4, nan, 3.6]",7.4,2.96
-Kyle Rudolph,TE,3100,MIN,DET,"[4.8, 0.0, 9.1, 4.7, 2.0, 7.7, nan, 2.2]",9.1,2.94
-Jakeem Grant,WR,3000,MIA,ARI,"[5.5, 1.2, 5.8, 6.6, 0.4, 8.8, nan, 8.5]",8.8,2.93
-Jordan Thomas,TE,2500,ARI,MIA,"[nan, 0.0, 0.0, 7.3, nan, 0.0, nan, nan]",7.3,2.92
-Chris Thompson,RB,4000,JAC,HOU,"[2.6, 11.7, 8.8, 0.0, 7.2, 4.5, nan, nan]",11.7,2.92
-Evan Engram,TE,4300,NYG,WAS,"[2.9, 12.5, 5.2, 9.5, 9.5, 5.0, 10.9, 12.0]",12.5,2.91
-J.K. Dobbins,RB,4900,BAL,IND,"[14.2, 7.1, 8.4, 2.7, 8.5, 4.9, nan, 13.1]",14.2,2.9
-Devin Duvernay,WR,3000,BAL,IND,"[2.2, 2.9, 8.7, 1.4, 7.9, 6.1, nan, 4.9]",8.7,2.9
-Houston Texans,DST,3100,HOU,JAC,"[0.0, 4.0, 1.0, 2.0, 9.0, 2.0, -4.0, nan]",9.0,2.9
-Olabisi Johnson,WR,3000,MIN,DET,"[8.6, 3.4, 0.0, 0.0, 2.3, 0.0, nan, nan]",8.6,2.87
-Lee Smith,TE,2500,BUF,SEA,"[nan, nan, 7.1, nan, nan, 0.0, nan, nan]",7.1,2.84
-MyCole Pruitt,TE,2500,TEN,CHI,"[7.1, 0.0, 3.6, nan, nan, nan, 0.0, 0.0]",7.1,2.84
-Reggie Gilliam,TE,2500,BUF,SEA,"[0.0, 7.1, 0.0, 0.0, 0.0, 0.0, 2.5, 0.0]",7.1,2.84
-Zay Jones,WR,3000,LV,LAC,"[0.0, 8.5, 6.2, 7.2, 1.2, nan, 0.0, nan]",8.5,2.83
-Benny Snell Jr.,RB,4000,PIT,DAL,"[11.3, -0.9, 1.1, nan, 1.9, 9.1, 6.2, nan]",11.3,2.82
-T.Y. Hilton,WR,4600,IND,BAL,"[9.3, 5.8, 8.2, 5.9, 12.9, 2.1, nan, 2.9]",12.9,2.8
-Quintez Cephus,WR,3000,DET,MIN,"[7.3, 8.4, 0.0, 0.0, nan, nan, nan, nan]",8.4,2.8
-Atlanta Falcons,DST,2500,ATL,DEN,"[-1.0, 3.0, 5.0, 0.0, 0.0, 7.0, 2.0, 6.0]",7.0,2.8
-Darrel Williams,RB,4000,KC,CAR,"[5.0, 2.2, 2.7, 0.2, 4.9, 11.1, 0.0, 3.6]",11.1,2.78
-Noah Brown,WR,3000,DAL,PIT,"[0.0, 4.8, 1.9, 8.3, 0.0, 3.5, 0.0, 0.0]",8.3,2.77
-Kenny Golladay,WR,6400,DET,MIN,"[nan, nan, 17.7, 16.2, nan, 14.5, 17.4, 0.0]",17.7,2.77
-James O'Shaughnessy,TE,2900,JAC,HOU,"[1.0, 8.0, 5.9, 3.6, 5.0, 0.0, 6.2, nan]",8.0,2.76
-Dan Arnold,TE,2900,ARI,MIA,"[4.1, 4.6, 2.1, 7.9, 0.0, 0.0, 7.7, nan]",7.9,2.72
-Steven Sims,WR,3000,WAS,NYG,"[8.0, 6.3, 0.0, nan, nan, nan, nan, nan]",8.0,2.67
-Tennessee Titans,DST,3000,TEN,CHI,"[3.0, 5.0, 7.0, nan, 8.0, -2.0, 6.0, -1.0]",8.0,2.67
-Vance McDonald,TE,2500,PIT,DAL,"[1.3, 1.3, 6.5, nan, 1.4, 0.0, 3.4, nan]",6.5,2.6
-Christian Blake,WR,3000,ATL,DEN,"[0.0, 0.0, 0.0, 7.7, 0.0, 1.5, 0.0, 3.4]",7.7,2.57
-Tony Pollard,RB,4000,DAL,PIT,"[5.2, 1.9, 0.5, 10.2, 5.2, 6.0, 3.2, 8.4]",10.2,2.55
-Minnesota Vikings,DST,2400,MIN,DET,"[-4.0, 3.0, 3.0, 5.0, 6.0, 0.0, nan, 3.0]",6.0,2.5
-Andy Dalton,QB,5200,DAL,PIT,"[nan, 0.0, nan, nan, 2.4, 13.0, 3.6, nan]",13.0,2.5
-Joe Reed,WR,3000,LAC,LV,"[0.0, 0.8, 0.0, nan, nan, nan, 7.4, 0.0]",7.4,2.47
-Kerryon Johnson,RB,4000,DET,MIN,"[1.4, 9.2, 4.0, 2.2, nan, 3.0, 0.0, 9.5]",9.5,2.38
-Javon Wims,WR,3000,CHI,TEN,"[7.1, 3.7, 0.0, 0.0, 0.0, 0.0, 1.8, 1.9]",7.1,2.37
-Cordarrelle Patterson,WR,3200,CHI,TEN,"[4.1, 5.3, 1.3, 1.5, 7.5, 1.9, 4.2, 2.5]",7.5,2.34
-Isaiah Wright,WR,3000,WAS,NYG,"[0.0, nan, 7.0, 6.9, 1.3, 6.6, nan, nan]",7.0,2.33
-Duke Johnson Jr.,RB,4000,HOU,JAC,"[1.4, nan, nan, 7.5, 2.9, 2.1, 9.2, nan]",9.2,2.3
-Darrell Daniels,TE,2500,ARI,MIA,"[0.0, 0.0, 4.4, 0.0, 5.7, 1.1, 0.0, nan]",5.7,2.28
-Byron Pringle,WR,3000,KC,CAR,"[0.0, 0.0, 0.0, nan, 3.3, 6.6, 6.0, 5.2]",6.6,2.2
-Blake Bell,TE,2500,DAL,PIT,"[0.0, 5.4, 0.0, 4.4, 2.3, 0.0, 0.0, nan]",5.4,2.16
-Jalen Richard,RB,4000,LV,LAC,"[2.5, 8.6, 5.2, 3.6, 7.0, nan, 2.4, 2.8]",8.6,2.15
-Marlon Mack,RB,4000,IND,BAL,"[8.6, nan, nan, nan, nan, nan, nan, nan]",8.6,2.15
-Tyrod Taylor,QB,4200,LAC,LV,"[9.0, nan, nan, nan, nan, nan, nan, nan]",9.0,2.14
-Alec Ingold,RB,4000,LV,LAC,"[0.0, 8.5, 2.1, 4.8, 4.5, nan, 3.1, 0.3]",8.5,2.12
-C.J. Board,WR,3000,NYG,WAS,"[3.7, 6.2, 1.9, 0.3, 0.0, 1.8, nan, nan]",6.2,2.07
-Jeremy McNichols,RB,4000,TEN,CHI,"[0.0, 0.7, 1.5, nan, 4.1, 8.2, 0.2, 4.9]",8.2,2.05
-Devontae Booker,RB,4000,LV,LAC,"[8.2, 1.5, 3.1, 0.0, 7.7, nan, 3.4, 5.6]",8.2,2.05
-Michael Pittman Jr.,WR,3900,IND,BAL,"[3.0, 7.7, 5.6, nan, nan, nan, nan, 1.6]",7.7,1.97
-Travis Homer,RB,4000,SEA,BUF,"[2.3, 2.1, 1.9, 7.8, 1.4, nan, 1.0, 0.4]",7.8,1.95
-Matt Breida,RB,4000,MIA,ARI,"[2.2, 4.9, 0.4, 7.8, 6.9, 4.2, nan, 1.3]",7.8,1.95
-Bryan Edwards,WR,3500,LV,LAC,"[1.9, 6.2, 6.8, nan, nan, nan, nan, nan]",6.8,1.94
-Pharaoh Brown,TE,2500,HOU,JAC,"[nan, nan, 0.0, 0.0, 1.4, 4.8, 0.0, nan]",4.8,1.92
-Brandon Powell,WR,3000,ATL,DEN,"[0.0, 0.0, 5.7, 0.0, 0.0, 0.0, 1.4, 0.0]",5.7,1.9
-Nick Vannett,TE,2500,DEN,ATL,"[0.4, 0.0, nan, 1.7, nan, 1.7, 4.5, nan]",4.5,1.8
-Kaden Smith,TE,2500,NYG,WAS,"[3.7, 1.9, 2.3, 2.0, 1.7, 4.5, 0.0, 1.6]",4.5,1.8
-Demetrius Harris,TE,2500,CHI,TEN,"[0.0, 0.0, 4.5, 1.6, 1.9, 0.0, 3.5, 0.0]",4.5,1.8
-Gabe Nabers,RB,4000,LAC,LV,"[0.0, 0.0, 0.0, 1.9, 0.0, nan, 0.0, 7.2]",7.2,1.8
-Patrick Ricard,RB,4000,BAL,IND,"[-0.6, 7.1, 0.0, 0.0, 1.7, 0.0, nan, 0.0]",7.1,1.78
-Tarik Cohen,RB,4000,CHI,TEN,"[6.7, 3.7, 7.1, nan, nan, nan, nan, nan]",7.1,1.78
-Jordan Howard,RB,4000,MIA,ARI,"[6.7, 6.4, 6.1, 0.9, nan, nan, nan, nan]",6.7,1.68
-Ashton Dulin,WR,3000,IND,BAL,"[0.0, 1.6, 0.0, 0.0, 4.7, 0.0, nan, 2.3]",4.7,1.57
-Chad Henne,QB,4100,KC,CAR,"[nan, nan, nan, nan, nan, nan, 6.3, 0.7]",6.3,1.54
-Le'Veon Bell,RB,5100,KC,CAR,"[6.6, nan, nan, nan, 7.7, nan, 3.9, 6.8]",7.7,1.51
-Anthony McFarland Jr.,RB,4000,PIT,DAL,"[nan, nan, 5.9, nan, 0.6, 1.8, 0.6, 0.1]",5.9,1.48
-KeeSean Johnson,WR,3000,ARI,MIA,"[nan, nan, 4.4, nan, 1.5, nan, nan, nan]",4.4,1.47
-Nick Keizer,TE,2500,KC,CAR,"[0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 3.6, 1.5]",3.6,1.44
-Ito Smith,RB,4000,ATL,DEN,"[3.6, 2.0, 0.0, 5.7, 0.6, 3.5, 0.0, nan]",5.7,1.42
-Royce Freeman,RB,4000,DEN,ATL,"[2.2, 2.0, 5.5, 3.2, nan, 4.0, 2.7, nan]",5.5,1.38
-Dawson Knox,TE,3400,BUF,SEA,"[4.6, 2.6, nan, 3.6, 2.5, nan, nan, nan]",4.6,1.35
-Ted Ginn Jr.,WR,3000,CHI,TEN,"[0.0, nan, 3.9, 3.1, 0.0, 0.0, nan, nan]",3.9,1.3
-Seth Roberts,WR,3000,CAR,KC,"[1.5, 0.0, 3.6, 2.0, 0.0, 0.0, 0.0, nan]",3.6,1.2
-Geoff Swaim,TE,2500,TEN,CHI,"[nan, nan, nan, nan, 0.0, 3.0, 0.0, nan]",3.0,1.2
-Trenton Cannon,RB,4000,CAR,KC,"[0.0, 0.0, nan, nan, -0.1, 4.7, 0.7, nan]",4.7,1.18
-Ben DiNucci,QB,4800,DAL,PIT,"[nan, nan, nan, nan, nan, 0.0, 1.6, 5.4]",5.4,1.12
-Chad Beebe,WR,3000,MIN,DET,"[nan, nan, 1.7, 0.0, 2.1, 3.3, nan, 2.6]",3.3,1.1
-Chris Manhertz,TE,2500,CAR,KC,"[1.4, 1.8, 0.0, 2.7, 0.0, 1.6, 0.0, 1.6]",2.7,1.08
-Tua Tagovailoa,QB,5500,MIA,ARI,"[nan, nan, nan, nan, nan, 0.4, nan, 5.7]",5.7,1.04
-Levine Toilolo,TE,2500,NYG,WAS,"[2.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.9]",2.3,0.92
-D'Onta Foreman,RB,4000,TEN,CHI,"[nan, nan, nan, nan, nan, nan, nan, 3.7]",3.7,0.92
-Blake Jarwin,TE,2500,DAL,PIT,"[2.2, nan, nan, nan, nan, nan, nan, nan]",2.2,0.88
-K.J. Hill,WR,3000,LAC,LV,"[0.0, 0.0, 2.5, 0.0, 1.8, nan, nan, 0.0]",2.5,0.83
-Temarrick Hemingway,TE,2500,WAS,NYG,"[nan, nan, nan, nan, 2.0, 0.0, 0.0, nan]",2.0,0.8
-Ben Ellefson,TE,2500,JAC,HOU,"[0.0, 0.0, nan, nan, nan, nan, 2.0, nan]",2.0,0.8
-Keith Kirkwood,WR,3000,CAR,KC,"[nan, nan, nan, nan, nan, 2.3, nan, nan]",2.3,0.77
-Pharoh Cooper,WR,3000,CAR,KC,"[0.0, 0.0, 0.0, 0.0, 2.2, 0.0, 0.0, 0.0]",2.2,0.73
-Antonio Gandy-Golden,WR,3000,WAS,NYG,"[nan, 1.3, 2.2, 0.0, 0.0, 0.0, nan, nan]",2.2,0.73
-Patrick Laird,RB,4000,MIA,ARI,"[2.9, 0.0, 0.0, 0.0, 0.0, 1.2, nan, nan]",2.9,0.72
-Marcus Kemp,WR,3000,KC,CAR,"[0.0, 0.0, 0.0, nan, nan, 0.0, 2.1, nan]",2.1,0.7
-Jaeden Graham,TE,2500,ATL,DEN,"[0.0, 0.0, 0.0, 0.0, 1.7, 0.0, 0.0, nan]",1.7,0.68
-Nick Westbrook-Ikhine,WR,3000,TEN,CHI,"[nan, 0.0, 0.0, nan, 1.7, 2.0, 0.0, nan]",2.0,0.67
-Jeremy Sprinkle,TE,2500,WAS,NYG,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.6, nan]",1.6,0.64
-Luke Stocker,TE,2500,ATL,DEN,"[0.0, 0.0, 1.6, 0.0, 1.2, 0.0, 0.0, nan]",1.6,0.64
-Jake Butt,TE,2500,DEN,ATL,"[1.0, 0.0, 1.5, 0.0, nan, 0.0, nan, nan]",1.5,0.6
-DeAndre Carter,WR,3000,HOU,JAC,"[1.8, 0.0, 0.0, -2.0, 0.0, 0.0, 0.0, nan]",1.8,0.6
-Alex Armah,RB,4000,CAR,KC,"[0.1, 2.4, 0.0, 0.2, 0.2, 0.0, 0.1, nan]",2.4,0.6
-Deon Yelder,TE,2500,KC,CAR,"[nan, nan, 0.0, 1.5, 0.0, 0.0, 0.0, 1.5]",1.5,0.6
-Diontae Spencer,WR,3000,DEN,ATL,"[0.0, 0.0, 1.7, 0.0, nan, 0.9, nan, nan]",1.7,0.57
-Tyrie Cleveland,WR,3000,DEN,ATL,"[1.7, nan, 0.0, 0.0, nan, 0.0, 0.0, 0.0]",1.7,0.57
-Trent Sherfield,WR,3000,ARI,MIA,"[0.0, 0.0, 0.0, 0.0, 1.6, 0.0, 0.0, nan]",1.6,0.53
-Elijhaa Penny,RB,4000,NYG,WAS,"[nan, 0.0, 0.0, 0.0, 0.3, 0.0, 0.0, 2.1]",2.1,0.52
-Darwin Thompson,RB,4000,KC,CAR,"[0.0, 2.1, -0.9, nan, 0.0, 1.7, nan, 0.3]",2.1,0.52
-Isaac Nauta,TE,2500,DET,MIN,"[nan, nan, nan, nan, nan, 0.0, 1.3, nan]",1.3,0.52
-C.J. Ham,RB,4000,MIN,DET,"[0.0, 0.4, 2.1, 0.2, 0.0, 0.0, nan, 0.2]",2.1,0.52
-Marcus Baugh,TE,2500,WAS,NYG,"[0.0, 1.2, 0.0, 0.0, nan, nan, nan, nan]",1.2,0.48
-Mike Boone,RB,4000,MIN,DET,"[0.0, 0.0, 0.0, 0.0, 1.9, 1.5, nan, 0.0]",1.9,0.48
-Dede Westbrook,WR,3000,JAC,HOU,"[nan, nan, 1.4, nan, nan, nan, -2.0, nan]",1.4,0.47
-Brandon Zylstra,WR,3000,CAR,KC,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4, nan]",1.4,0.47
-Ameer Abdullah,RB,4000,MIN,DET,"[0.0, 0.0, 0.0, 0.0, 0.0, 1.8, nan, 0.0]",1.8,0.45
-Andre Roberts,WR,3000,BUF,SEA,"[0.0, 0.0, 0.0, 1.3, 0.6, 0.0, 0.0, 0.0]",1.3,0.43
-DeAndre Washington,RB,4000,KC,CAR,"[nan, nan, nan, nan, nan, nan, 1.7, nan]",1.7,0.42
-Chandler Cox,RB,4000,MIA,ARI,"[0.0, 0.0, 0.0, 1.3, 1.6, 0.0, nan, nan]",1.6,0.4
-Cullen Gillaspia,RB,4000,HOU,JAC,"[nan, 0.0, 1.6, nan, 0.0, 0.0, 0.0, nan]",1.6,0.4
-Malcolm Perry,RB,4000,MIA,ARI,"[nan, nan, nan, nan, nan, nan, nan, 1.5]",1.5,0.38
-Khari Blasingame,RB,4000,TEN,CHI,"[1.5, 0.0, 0.0, nan, nan, 0.0, 0.0, 1.5]",1.5,0.38
-Keke Coutee,WR,3000,HOU,JAC,"[nan, 1.1, nan, nan, nan, nan, nan, nan]",1.1,0.37
-Austin Mack,WR,3000,NYG,WAS,"[nan, nan, nan, nan, nan, 1.1, 0.0, nan]",1.1,0.37
-Keith Smith,RB,4000,ATL,DEN,"[0.0, 1.3, 1.3, 1.4, 0.1, 1.3, 0.0, 0.0]",1.4,0.35
-Jaylen Samuels,RB,4000,PIT,DAL,"[1.3, 1.4, 0.1, nan, 0.0, 0.0, 0.5, 0.0]",1.4,0.35
-Alex Smith,QB,4800,WAS,NYG,"[nan, nan, nan, nan, 1.6, nan, nan, nan]",1.6,0.33
-Rico Dowdle,RB,4000,DAL,PIT,"[0.0, nan, 0.0, 0.0, 0.0, 1.3, 0.0, nan]",1.3,0.32
-Darrynton Evans,RB,4000,TEN,CHI,"[nan, nan, 0.9, nan, 1.2, nan, nan, nan]",1.2,0.3
-Ryan Nall,RB,4000,CHI,TEN,"[0.0, 1.2, 0.0, 0.0, 0.0, 0.0, nan, 1.2]",1.2,0.3
-Lynn Bowden Jr.,WR,3000,MIA,ARI,"[nan, 0.9, nan, 0.5, 0.4, 0.0, nan, nan]",0.9,0.3
-Bruce Miller,RB,4000,JAC,HOU,"[1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",1.2,0.3
-Senorise Perry,RB,4000,TEN,CHI,"[0.0, 0.9, nan, nan, nan, nan, nan, nan]",0.9,0.22
-Matt Barkley,QB,4500,BUF,SEA,"[nan, nan, nan, nan, 0.9, nan, nan, nan]",0.9,0.2
-Jacoby Brissett,QB,4400,IND,BAL,"[0.0, nan, 0.7, nan, nan, nan, nan, nan]",0.7,0.16
-Qadree Ollison,RB,4000,ATL,DEN,"[nan, nan, 0.0, nan, nan, nan, nan, 0.3]",0.3,0.08
-Chris Streveler,QB,4100,ARI,MIA,"[0.3, 0.0, 0.0, nan, nan, nan, nan, nan]",0.3,0.07
-Robert Griffin III,QB,4100,BAL,IND,"[0.3, nan, nan, -0.7, -0.1, nan, nan, nan]",0.3,0.07
-C.J. Prosise,RB,4000,HOU,JAC,"[nan, 0.0, 0.1, 0.0, 0.0, 0.0, 0.0, nan]",0.1,0.02
-Trey Edmunds,RB,4000,PIT,DAL,"[nan, nan, nan, nan, 0.0, nan, 0.0, 0.0]",0.0,0.0
-Artavis Pierce,RB,4000,CHI,TEN,"[nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
-Jonathan Ward,RB,4000,ARI,MIA,"[nan, nan, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0
-Justice Hill,RB,4000,BAL,IND,"[nan, nan, nan, 0.0, nan, 0.0, nan, nan]",0.0,0.0
-Devine Ozigbo,RB,4000,JAC,HOU,"[nan, nan, nan, nan, nan, nan, 0.0, nan]",0.0,0.0
-Dare Ogunbowale,RB,4000,JAC,HOU,"[nan, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0
-Derek Watt,RB,4000,PIT,DAL,"[0.0, 0.0, 0.0, nan, nan, 0.0, nan, nan]",0.0,0.0
-Eric Tomlinson,TE,2500,NYG,WAS,"[0.0, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
-J.P. Holtz,TE,2500,CHI,TEN,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0
-Buddy Howell,RB,4000,HOU,JAC,"[0.0, 0.0, 0.0, 0.0, nan, nan, 0.0, nan]",0.0,0.0
-Scottie Phillips,RB,4000,HOU,JAC,"[0.0, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
-Beau Brinkley,TE,2500,TEN,CHI,"[nan, 0.0, 0.0, nan, 0.0, 0.0, 0.0, nan]",0.0,0.0
-LeVante Bellamy,RB,4000,DEN,ATL,"[nan, 0.0, 0.0, 0.0, nan, nan, nan, nan]",0.0,0.0
-Sean McKeon,TE,2500,DAL,PIT,"[nan, 0.0, 0.0, nan, 0.0, 0.0, 0.0, nan]",0.0,0.0
-Stephen Anderson,TE,2500,LAC,LV,"[0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, nan]",0.0,0.0
-Tyler Conklin,TE,2500,MIN,DET,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
-Taiwan Jones,RB,4000,BUF,SEA,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0
-Colin Thompson,TE,2500,CAR,KC,"[nan, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]",0.0,0.0
-Ricky Seals-Jones,TE,2500,KC,CAR,"[nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
-Malik Turner,WR,3000,DAL,PIT,"[0.0, 0.0, 0.0, 0.0, nan, nan, nan, nan]",0.0,0.0
-Luke Willson,TE,2500,SEA,BUF,"[0.0, 0.0, nan, 0.0, 0.0, nan, nan, nan]",0.0,0.0
-K.J. Osborn,WR,3000,MIN,DET,"[0.0, 0.0, nan, 0.0, nan, nan, nan, 0.0]",0.0,0.0
-Dan Chisena,WR,3000,MIN,DET,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
-Andrew Beck,TE,2500,DEN,ATL,"[nan, 0.0, 0.0, 0.0, nan, 0.0, nan, nan]",0.0,0.0
-Tajae Sharpe,WR,3000,MIN,DET,"[0.0, 0.0, nan, nan, nan, nan, nan, nan]",0.0,0.0
-Easton Stick,QB,4000,LAC,LV,"[nan, nan, nan, nan, nan, nan, 0.0, nan]",0.0,0.0
-James Proche,WR,3000,BAL,IND,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0]",0.0,0.0
-Maxx Williams,TE,2500,ARI,MIA,"[0.0, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
-Evan Baylis,TE,2500,ARI,MIA,"[nan, nan, nan, nan, 0.0, 0.0, 0.0, nan]",0.0,0.0
-Chris Moore,WR,3000,BAL,IND,"[nan, nan, nan, nan, nan, nan, nan, 0.0]",0.0,0.0
-Mack Hollins,WR,3000,MIA,ARI,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0]",0.0,0.0
-Noah Togiai,TE,2500,IND,BAL,"[nan, 0.0, 0.0, nan, nan, 0.0, nan, nan]",0.0,0.0
-Penny Hart,WR,3000,SEA,BUF,"[0.0, nan, 0.0, 0.0, 0.0, nan, nan, 0.0]",0.0,0.0
-Tyler Davis,TE,2500,JAC,HOU,"[nan, nan, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
-Derek Carrier,TE,2500,LV,LAC,"[0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, nan]",0.0,0.0
-Kahale Warring,TE,2500,HOU,JAC,"[0.0, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
-Jason Moore,WR,3000,LAC,LV,"[nan, nan, nan, 0.0, nan, nan, nan, nan]",0.0,0.0
-Mason Rudolph,QB,4200,PIT,DAL,"[nan, nan, nan, nan, nan, -0.1, nan, nan]",-0.1,-0.02
-AJ McCarron,QB,4900,HOU,JAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Mike Glennon,QB,4900,JAC,HOU,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Jake Luton,QB,4900,JAC,HOU,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-P.J. Walker,QB,4800,CAR,KC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Garrett Gilbert,QB,4800,DAL,PIT,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Cooper Rush,QB,4800,DAL,PIT,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Marcus Mariota,QB,4600,LV,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Matt Schaub,QB,4600,ATL,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Will Grier,QB,4500,CAR,KC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Wayne Gallman Jr.,RB,4500,NYG,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Nathan Peterman,QB,4400,LV,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Colt McCoy,QB,4100,NYG,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Logan Woodside,QB,4100,TEN,CHI,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Geno Smith,QB,4000,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Jake Fromm,QB,4000,BUF,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Rashaad Penny,RB,4000,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Nick Bellore,RB,4000,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Brett Hundley,QB,4000,ARI,MIA,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Eno Benjamin,RB,4000,ARI,MIA,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Salvon Ahmed,RB,4000,MIA,ARI,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Trace McSorley,QB,4000,BAL,IND,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Jacob Eason,QB,4000,IND,BAL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Ryquell Armstead,RB,4000,JAC,HOU,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Sean Mannion,QB,4000,MIN,DET,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Chase Daniel,QB,4000,DET,MIN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-David Blough,QB,4000,DET,MIN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Jason Cabinda,RB,4000,DET,MIN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Bryce Love,RB,4000,WAS,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Josh Dobbs,QB,4000,PIT,DAL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Rico Gafford,WR,3000,LV,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Tyrell Williams,WR,3000,LV,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Omar Bayless,WR,3000,CAR,KC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Phillip Dorsett II,WR,3000,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Josh Gordon,WR,3000,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Isaiah Hodgins,WR,3000,BUF,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Fred Brown,WR,3000,DEN,ATL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Antoine Wesley,WR,3000,BAL,IND,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-DeAndrew White,WR,3000,BAL,IND,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Dezmon Patmon,WR,3000,IND,BAL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Reece Fountain,WR,3000,IND,BAL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Isaiah Coulter,WR,3000,HOU,JAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Jamal Agnew,WR,3000,DET,MIN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Tony Brown,WR,3000,WAS,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Kelvin Harmon,WR,3000,WAS,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Emanuel Hall,WR,3000,WAS,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-David Sills,WR,3000,NYG,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Cody Core,WR,3000,NYG,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Riley Ridley,WR,3000,CHI,TEN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Nick O'Leary,TE,2500,LV,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-James Winchester,TE,2500,KC,CAR,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Colby Parkinson,TE,2500,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Tyler Ott,TE,2500,SEA,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Tommy Sweeney,TE,2500,BUF,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Austin Fort,TE,2500,DEN,ATL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Josh Oliver,TE,2500,JAC,HOU,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Hunter Bryant,TE,2500,DET,MIN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Thaddeus Moss,TE,2500,WAS,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Darion Clark,TE,2500,CHI,TEN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Patrick Scales,TE,2500,CHI,TEN,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
-Zach Gentry,TE,2500,PIT,DAL,"[nan, nan, nan, nan, nan, nan, nan, nan]",,
+Odell Beckham Jr.,WR,3000,CLE,HOU,"[5.2, 17.4, 9.9, 38.4, 11.4, 4.5, 0.0, nan, nan]",38.4,12.8
+Robert Tonyan,TE,3600,GB,JAC,"[0.0, 10.5, 16.0, 33.8, nan, 5.5, 5.2, 12.9, 1.5]",33.8,9.39
+Miami Dolphins,DST,2800,MIA,LAC,"[2.0, 2.0, 12.0, 3.0, 12.0, 15.0, nan, 23.0, 8.0]",23.0,8.21
+Tyler Lockett,WR,6500,SEA,LAR,"[17.2, 19.7, 37.0, 5.9, 8.4, nan, 53.0, 7.3, 8.0]",53.0,8.15
+Jeff Wilson Jr.,RB,4000,SF,NO,"[0.0, 0.3, 21.9, 2.9, 2.7, nan, 32.0, nan, nan]",32.0,8.0
+Tyler Higbee,TE,3700,LAR,SEA,"[7.0, 28.4, 8.0, 5.0, 3.2, 8.6, nan, 3.4, nan]",28.4,7.68
+Mike Davis,RB,4000,CAR,TB,"[0.0, 15.5, 23.1, 22.1, 29.9, 11.5, 8.6, 8.7, 8.7]",29.9,7.48
+San Francisco 49ers,DST,2300,SF,NO,"[4.0, 5.0, 12.0, 6.0, -2.0, 3.0, 17.0, -2.0, 0.0]",17.0,7.39
+Chase Claypool,WR,5800,PIT,CIN,"[6.7, 17.8, 3.4, nan, 42.6, 18.1, 0.8, 13.2, 15.3]",42.6,7.34
+Harrison Bryant,TE,3000,CLE,HOU,"[1.5, 2.4, 7.3, 7.7, 0.0, 2.1, 21.6, 3.5, nan]",21.6,7.2
+Joe Mixon,RB,6100,CIN,PIT,"[6.1, 12.6, 8.5, 42.1, 15.4, 14.9, nan, nan, nan]",42.1,6.9
+Jordan Reed,TE,3500,SF,NO,"[3.2, 24.0, 4.3, nan, nan, nan, nan, nan, 1.3]",24.0,6.86
+Los Angeles Rams,DST,2200,LAR,SEA,"[4.0, 7.0, 4.0, 11.0, 12.0, 0.0, 15.0, 5.0, nan]",15.0,6.82
+Allen Lazard,WR,4000,GB,JAC,"[18.2, 7.5, 26.4, nan, nan, nan, nan, nan, nan]",26.4,6.6
+Scotty Miller,WR,3500,TB,CAR,"[12.9, 3.2, 11.3, 19.3, 0.0, 1.6, 22.9, 7.2, 2.0]",22.9,6.54
+Aaron Jones,RB,7100,GB,JAC,"[17.6, 45.6, 16.6, 22.1, nan, 13.1, nan, nan, 12.9]",45.6,6.42
+Mike Gesicki,TE,4300,MIA,LAC,"[6.0, 27.0, 8.5, 2.5, 14.1, 0.0, nan, 1.8, 7.2]",27.0,6.28
+Tyler Kroft,TE,3000,BUF,ARI,"[0.0, 0.0, 18.4, 2.2, 0.0, 1.7, 10.4, 2.1, 7.1]",18.4,6.13
+George Kittle,TE,6600,SF,NO,"[9.3, nan, nan, 40.1, 8.4, 23.9, 10.5, 5.9, nan]",40.1,6.08
+DaeSean Hamilton,WR,3000,DEN,LV,"[2.8, 1.5, 0.0, 1.9, nan, 0.0, 4.6, 18.2, 3.2]",18.2,6.07
+Joe Burrow,QB,5700,CIN,PIT,"[17.3, 24.5, 20.4, 16.1, 5.3, 17.7, 34.6, 18.9, nan]",34.6,6.07
+Darren Fells,TE,3400,HOU,CLE,"[3.9, 10.3, 0.0, 4.1, 13.7, 20.5, 0.0, nan, 4.6]",20.5,6.03
+Keelan Cole,WR,3400,JAC,GB,"[15.7, 17.8, 8.3, 8.6, 10.7, 20.3, 2.2, nan, nan]",20.3,5.97
+Austin Ekeler,RB,5300,LAC,MIA,"[9.7, 18.8, 31.3, 2.4, nan, nan, nan, nan, nan]",31.3,5.91
+Darius Slayton,WR,4800,NYG,PHI,"[28.2, 6.3, 6.3, 7.8, 20.9, 11.8, 4.3, 10.6, 1.8]",28.2,5.88
+Tom Brady,QB,6300,TB,CAR,"[22.5, 9.7, 23.9, 33.5, 14.1, 14.6, 36.9, 19.1, 5.4]",36.9,5.86
+Justin Herbert,QB,6600,LAC,MIA,"[nan, 23.2, 15.7, 24.0, 27.4, nan, 38.5, 23.2, 23.4]",38.5,5.83
+Denver Broncos,DST,2400,DEN,LV,"[2.0, 5.0, 1.0, 6.0, nan, 14.0, 2.0, 5.0, 3.0]",14.0,5.83
+Kenyan Drake,RB,4900,ARI,BUF,"[14.5, 11.5, 8.9, 3.5, 13.2, 28.4, 5.1, nan, nan]",28.4,5.8
+Arizona Cardinals,DST,2600,ARI,BUF,"[4.0, 9.0, 4.0, 1.0, 7.0, 15.0, 7.0, nan, 2.0]",15.0,5.77
+Dallas Goedert,TE,4200,PHI,NYG,"[24.1, 7.0, 1.7, nan, nan, nan, nan, 2.5, nan]",24.1,5.74
+Andy Isabella,WR,3500,ARI,BUF,"[0.0, 8.7, 20.1, 2.3, 5.0, 0.0, 1.7, nan, 3.0]",20.1,5.74
+Dontrelle Inman,WR,3300,WAS,DET,"[4.1, 3.7, 18.8, 6.9, 0.8, 9.5, 0.0, nan, nan]",18.8,5.7
+C.J. Uzomah,TE,2500,CIN,PIT,"[8.5, 14.2, nan, nan, nan, nan, nan, nan, nan]",14.2,5.68
+Adam Shaheen,TE,2500,MIA,LAC,"[0.0, 1.4, 0.0, 0.0, 7.3, 14.1, nan, 0.0, 0.0]",14.1,5.64
+O.J. Howard,TE,2500,TB,CAR,"[13.6, 2.1, 7.9, 14.0, nan, nan, nan, nan, nan]",14.0,5.6
+James Washington,WR,3000,PIT,CIN,"[11.4, 5.2, 8.6, nan, 5.5, 16.8, 0.0, 0.0, 8.7]",16.8,5.6
+Tampa Bay Buccaneers,DST,3400,TB,CAR,"[0.0, 14.0, 16.0, 6.0, 6.0, 19.0, 6.0, 7.0, 1.0]",19.0,5.59
+Diontae Johnson,WR,5200,PIT,CIN,"[9.7, 23.2, 0.9, nan, 0.8, nan, 29.0, 1.6, 14.1]",29.0,5.58
+Philadelphia Eagles,DST,3600,PHI,NYG,"[3.0, -1.0, 8.0, 18.0, -1.0, 2.0, 9.0, 20.0, nan]",20.0,5.56
+Malcolm Brown,RB,4700,LAR,SEA,"[26.0, 4.7, 1.9, 10.7, 3.4, 5.2, 11.7, 7.7, nan]",26.0,5.53
+Josh Jacobs,RB,6500,LV,DEN,"[35.9, 13.5, 9.3, 10.3, 22.5, nan, 6.1, 12.9, 13.8]",35.9,5.52
+Drew Lock,QB,5500,DEN,LV,"[13.1, -1.2, nan, nan, nan, 5.5, 15.0, 20.8, 30.2]",30.2,5.49
+Curtis Samuel,WR,4900,CAR,TB,"[9.3, 5.9, 9.2, 7.8, 11.4, nan, 17.3, 21.4, 26.8]",26.8,5.47
+Alvin Kamara,RB,8200,NO,SF,"[23.7, 38.4, 44.7, 20.9, 19.9, nan, 22.8, 25.3, 15.9]",44.7,5.45
+David Moore,WR,3400,SEA,LAR,"[7.0, 13.8, 1.2, 18.5, 0.0, nan, 8.8, 13.6, 17.1]",18.5,5.44
+Greg Ward,WR,3800,PHI,NYG,"[8.1, 1.5, 20.6, 7.8, 12.6, 5.9, 15.2, 4.2, nan]",20.6,5.42
+Brandin Cooks,WR,5600,HOU,CLE,"[4.0, 14.5, 5.3, 0.0, 30.1, 21.8, 13.0, nan, 17.3]",30.1,5.38
+Jamaal Williams,RB,4000,GB,JAC,"[8.2, 8.3, 2.7, 18.5, nan, 3.4, 21.4, 18.2, nan]",21.4,5.35
+D'Andre Swift,RB,5100,DET,WAS,"[11.3, 12.2, 2.9, 15.2, nan, 27.3, 14.8, 5.3, 12.7]",27.3,5.35
+New Orleans Saints,DST,3000,NO,SF,"[15.0, 4.0, -3.0, 4.0, 3.0, nan, 1.0, 7.0, 16.0]",16.0,5.33
+Latavius Murray,RB,4000,NO,SF,"[4.8, 5.3, 7.5, 21.3, 7.7, nan, 6.6, 6.1, 6.2]",21.3,5.32
+Washington Football Team,DST,3200,WAS,DET,"[15.0, 4.0, 1.0, 4.0, 2.0, 4.0, 17.0, nan, 5.0]",17.0,5.31
+D.K. Metcalf,WR,7600,SEA,LAR,"[19.5, 19.2, 19.0, 14.6, 27.3, nan, 4.3, 40.1, 23.8]",40.1,5.28
+Ryan Fitzpatrick,QB,5300,MIA,LAC,"[8.4, 24.3, 25.2, 23.3, 27.6, 18.0, nan, nan, nan]",27.6,5.21
+Buffalo Bills,DST,2700,BUF,ARI,"[8.0, 2.0, 5.0, 6.0, -4.0, 3.0, 14.0, 4.0, 12.0]",14.0,5.19
+New York Giants,DST,2700,NYG,PHI,"[4.0, 9.0, -2.0, 5.0, 11.0, 14.0, 5.0, 4.0, 13.0]",14.0,5.19
+Richard Rodgers,TE,2800,PHI,NYG,"[0.0, 0.0, 3.5, 6.5, 2.8, 6.1, 14.5, nan, nan]",14.5,5.18
+Marquez Callaway,WR,3000,NO,SF,"[nan, 0.0, 0.0, 2.6, 7.4, nan, 15.5, nan, 3.1]",15.5,5.17
+Mike Williams,WR,5400,LAC,MIA,"[10.9, 3.4, 2.7, nan, 27.9, nan, 1.4, 21.0, 13.1]",27.9,5.17
+Adam Trautman,TE,2500,NO,SF,"[0.0, 2.7, 3.7, 0.0, nan, nan, 0.0, nan, 12.9]",12.9,5.16
+Baker Mayfield,QB,6000,CLE,HOU,"[10.9, 16.3, 14.3, 15.2, 17.6, 7.3, 30.8, 7.8, nan]",30.8,5.13
+Tre'Quan Smith,WR,4200,NO,SF,"[1.4, 13.6, 8.2, 21.4, 2.8, nan, 9.4, 9.3, 8.4]",21.4,5.1
+Emmanuel Sanders,WR,4800,NO,SF,"[10.5, 2.8, 15.6, 15.3, 24.2, nan, nan, nan, 13.8]",24.2,5.04
+Leonard Fournette,RB,5500,TB,CAR,"[2.9, 27.6, 4.2, nan, 0.0, nan, 15.7, 10.1, 10.1]",27.6,5.02
+Gabriel Davis,WR,3400,BUF,ARI,"[3.6, 7.6, 12.1, 9.6, 10.8, 1.7, 2.1, 0.0, 17.0]",17.0,5.0
+Carson Wentz,QB,5900,PHI,NYG,"[15.0, 14.4, 23.5, 22.4, 19.4, 29.4, 28.8, 10.6, nan]",29.4,4.98
+Jalen Guyton,WR,3300,LAC,MIA,"[2.6, 8.4, 4.3, 14.2, 5.5, nan, 16.4, 1.3, 1.9]",16.4,4.97
+Davante Adams,WR,9000,GB,JAC,"[41.6, 6.6, nan, nan, nan, 12.1, 44.6, 30.3, 33.3]",44.6,4.96
+D.J. Moore,WR,5100,CAR,TB,"[9.4, 20.0, 8.5, 8.9, 19.3, 14.3, 25.3, 7.5, 3.8]",25.3,4.96
+Greg Olsen,TE,2500,SEA,LAR,"[12.4, 0.0, 11.1, 8.5, 3.0, nan, 3.8, 0.0, 3.3]",12.4,4.96
+Melvin Gordon III,RB,5200,DEN,LV,"[15.6, 16.4, 7.8, 25.8, nan, nan, 12.0, 10.7, 3.7]",25.8,4.96
+Ronald Jones II,RB,5300,TB,CAR,"[10.2, 10.7, 9.3, 18.8, 15.5, 26.1, 10.6, 6.6, 4.8]",26.1,4.92
+Jeff Driskel,QB,4000,DEN,LV,"[nan, 19.7, 11.4, 0.9, nan, nan, nan, nan, nan]",19.7,4.92
+Travis Fulgham,WR,6400,PHI,NYG,"[nan, nan, nan, 13.7, 31.2, 19.5, 12.3, 19.8, nan]",31.2,4.88
+Randall Cobb,WR,4000,HOU,CLE,"[4.3, 10.9, 19.5, 5.6, 10.7, 10.7, 17.5, nan, 5.1]",19.5,4.88
+Deonte Harris,WR,3000,NO,SF,"[3.6, 6.4, 2.5, 3.0, nan, nan, 14.6, 4.7, 5.0]",14.6,4.87
+Hunter Renfrow,WR,4200,LV,DEN,"[4.1, 6.7, 20.4, 10.7, 5.2, nan, 8.2, 12.6, 8.0]",20.4,4.86
+Logan Thomas,TE,3300,WAS,DET,"[13.7, 6.6, 7.1, 1.8, 1.4, 13.2, 16.0, nan, 5.8]",16.0,4.85
+Darren Waller,TE,5900,LV,DEN,"[10.5, 28.5, 2.9, 15.8, 15.8, nan, 17.0, 7.7, 13.2]",28.5,4.83
+Cleveland Browns,DST,2900,CLE,HOU,"[0.0, 4.0, 14.0, 5.0, 13.0, 1.0, 7.0, 3.0, nan]",14.0,4.83
+Josh Allen,QB,7500,BUF,ARI,"[28.2, 34.5, 32.2, 25.4, 18.3, 16.1, 16.4, 13.5, 36.0]",36.0,4.8
+James Robinson,RB,6600,JAC,GB,"[10.0, 21.0, 30.9, 14.7, 10.0, 15.3, 31.7, nan, 15.9]",31.7,4.8
+Preston Williams,WR,4300,MIA,LAC,"[6.1, 5.6, 8.7, 4.5, 20.6, 9.8, nan, 3.5, 16.0]",20.6,4.79
+Russell Wilson,QB,7700,SEA,LAR,"[31.8, 34.4, 36.8, 21.9, 25.5, nan, 32.9, 28.7, 24.1]",36.8,4.78
+Tim Patrick,WR,4900,DEN,LV,"[6.9, 4.4, 14.3, 23.3, nan, 14.1, 7.4, nan, 12.9]",23.3,4.76
+D.J. Chark Jr.,WR,6200,JAC,GB,"[11.5, 12.4, nan, 29.5, 4.6, 11.5, 3.6, nan, 27.6]",29.5,4.76
+Kyler Murray,QB,8000,ARI,BUF,"[27.3, 33.1, 24.7, 23.1, 27.3, 28.9, 38.1, nan, 37.9]",38.1,4.76
+Jesse James,TE,2500,DET,WAS,"[0.0, 0.0, 11.8, 4.1, nan, 1.3, 0.0, 3.3, 1.0]",11.8,4.72
+Cole Beasley,WR,4700,BUF,ARI,"[9.8, 12.0, 16.0, 12.2, 11.3, 14.5, 22.2, 4.4, 6.9]",22.2,4.72
+Tyler Eifert,TE,2700,JAC,GB,"[1.8, 12.6, 3.1, 4.2, 4.6, 0.0, nan, nan, 8.8]",12.6,4.67
+Gardner Minshew II,QB,5500,JAC,GB,"[20.8, 25.5, 10.2, 21.9, 19.8, 19.1, 19.0, nan, nan]",25.5,4.64
+Deshaun Watson,QB,6900,HOU,CLE,"[21.8, 15.7, 18.1, 20.9, 26.9, 32.0, 24.2, nan, 24.2]",32.0,4.64
+Teddy Bridgewater,QB,6100,CAR,TB,"[19.4, 10.7, 14.6, 27.2, 20.8, 11.4, 19.2, 13.0, 28.3]",28.3,4.64
+Derek Carr,QB,5400,LV,DEN,"[13.6, 21.7, 15.4, 20.4, 25.0, nan, 20.3, 12.5, 14.0]",25.0,4.63
+Jerry Jeudy,WR,5600,DEN,LV,"[9.6, 10.2, 10.5, 14.1, nan, 5.2, 4.0, 11.3, 25.5]",25.5,4.55
+Auden Tate,WR,3000,CIN,PIT,"[0.0, nan, 4.9, 2.5, 2.2, nan, 0.0, 13.5, nan]",13.5,4.5
+Jacksonville Jaguars,DST,2000,JAC,GB,"[6.0, 0.0, 0.0, 2.0, 4.0, 1.0, 9.0, nan, 4.0]",9.0,4.5
+DeeJay Dallas,RB,5100,SEA,LAR,"[nan, nan, 0.0, 4.3, 0.0, nan, 3.8, 22.8, 11.9]",22.8,4.47
+Marquez Valdes-Scantling,WR,4400,GB,JAC,"[19.6, 9.4, 1.5, 8.5, nan, 6.2, 0.9, 3.3, 19.3]",19.6,4.45
+Nelson Agholor,WR,4900,LV,DEN,"[9.3, 2.9, 5.2, 14.4, 14.7, nan, 21.7, 0.0, 13.5]",21.7,4.43
+Jimmy Garoppolo,QB,5300,SF,NO,"[19.3, 13.2, nan, nan, 1.1, 23.5, 9.5, 2.8, nan]",23.5,4.43
+Carolina Panthers,DST,2500,CAR,TB,"[-1.0, 3.0, 11.0, 3.0, 5.0, 2.0, 3.0, 4.0, 2.0]",11.0,4.4
+Henry Ruggs III,WR,4500,LV,DEN,"[9.6, 1.4, nan, nan, 19.8, nan, 6.5, 2.9, 1.0]",19.8,4.4
+Raheem Mostert,RB,5700,SF,NO,"[25.1, 18.7, nan, nan, 14.9, 9.6, nan, nan, nan]",25.1,4.4
+Cam Sims,WR,3200,WAS,DET,"[0.0, 0.0, 0.0, 3.7, 0.0, 9.2, 3.2, nan, 14.0]",14.0,4.38
+David Njoku,TE,3200,CLE,HOU,"[14.0, nan, nan, nan, 1.6, 1.7, 10.0, 2.9, nan]",14.0,4.38
+Marvin Hall,WR,3500,DET,WAS,"[3.6, 9.4, 0.0, 0.0, nan, 1.7, 0.0, 15.3, 5.8]",15.3,4.37
+Mike Thomas,WR,3000,CIN,PIT,"[3.7, 13.1, 2.9, 1.5, -0.3, 2.0, 7.4, nan, nan]",13.1,4.37
+Devin Singletary,RB,4300,BUF,ARI,"[10.3, 9.6, 16.1, 18.7, 4.3, 5.5, 6.7, 10.2, 6.4]",18.7,4.35
+Jared Goff,QB,6500,LAR,SEA,"[11.5, 24.0, 28.2, 11.7, 25.4, 15.9, 16.9, 12.2, nan]",28.2,4.34
+Josh Reynolds,WR,3500,LAR,SEA,"[2.7, 5.3, 8.0, 5.5, 6.6, 12.5, 15.2, 8.4, nan]",15.2,4.34
+Tyler Boyd,WR,6400,CIN,PIT,"[7.3, 20.2, 22.5, 16.4, 8.2, 12.9, 27.7, 19.6, nan]",27.7,4.33
+Jordan Akins,TE,2900,HOU,CLE,"[11.9, 12.5, 4.8, 7.6, nan, nan, nan, nan, 3.9]",12.5,4.31
+Robert Woods,WR,6600,LAR,SEA,"[17.9, 11.3, 21.4, 9.8, 17.1, 14.0, 5.5, 28.4, nan]",28.4,4.3
+Drew Sample,TE,2700,CIN,PIT,"[1.7, 11.5, 1.1, 7.7, 4.2, 0.0, 10.2, 0.0, nan]",11.5,4.26
+Keenan Allen,WR,7100,LAC,MIA,"[7.7, 16.6, 30.2, 14.2, 10.9, nan, 22.5, 21.7, 25.3]",30.2,4.25
+Jacob Hollister,TE,2600,SEA,LAR,"[1.9, 0.0, 9.1, 0.0, 0.0, nan, 5.2, 1.6, 11.0]",11.0,4.23
+Giovani Bernard,RB,5400,CIN,PIT,"[6.8, 7.5, 8.5, 1.9, 1.4, 11.8, 20.6, 22.8, nan]",22.8,4.22
+Foster Moreau,TE,2500,LV,DEN,"[0.0, 4.1, 10.5, 1.8, 0.0, nan, 0.0, 0.0, nan]",10.5,4.2
+DeVante Parker,WR,5000,MIA,LAC,"[8.7, 16.3, 11.9, 21.0, 13.0, 6.5, nan, 7.3, 12.4]",21.0,4.2
+Gerald Everett,TE,3100,LAR,SEA,"[1.7, 0.0, 5.4, 6.2, 13.0, 5.7, 12.8, 8.2, nan]",13.0,4.19
+Albert Okwuegbunam,TE,3100,DEN,LV,"[nan, nan, nan, nan, nan, 6.5, 13.0, 7.9, 1.7]",13.0,4.19
+Robby Anderson,WR,6100,CAR,TB,"[25.5, 17.9, 10.5, 17.9, 19.5, 11.7, 13.4, 9.8, 15.3]",25.5,4.18
+Jake Luton,QB,5400,JAC,GB,"[nan, nan, nan, nan, nan, nan, nan, nan, 22.5]",22.5,4.17
+Daniel Jones,QB,5200,NYG,PHI,"[19.4, 8.7, 9.1, 11.1, 8.2, 14.9, 21.7, 18.2, 12.9]",21.7,4.17
+Christian McCaffrey,RB,9000,CAR,TB,"[28.4, 24.8, nan, nan, nan, nan, nan, nan, 37.1]",37.1,4.12
+Tyron Johnson,WR,3000,LAC,MIA,"[nan, nan, nan, 12.3, 0.7, nan, 1.0, nan, 6.0]",12.3,4.1
+Pittsburgh Steelers,DST,4400,PIT,CIN,"[8.0, 13.0, 7.0, nan, 8.0, 18.0, 2.0, 18.0, 7.0]",18.0,4.09
+Christian Kirk,WR,5700,ARI,BUF,"[1.0, 8.0, nan, 10.9, 12.8, 22.6, 20.7, nan, 23.3]",23.3,4.09
+JuJu Smith-Schuster,WR,6100,PIT,CIN,"[24.9, 11.8, 16.3, nan, 6.8, 2.6, 17.5, 13.7, 21.3]",24.9,4.08
+Antonio Gibson,RB,5600,WAS,DET,"[6.4, 12.2, 13.0, 22.8, 10.1, 9.5, 18.8, nan, 12.5]",22.8,4.07
+Chris Conley,WR,3000,JAC,GB,"[1.6, 8.8, 6.4, 7.4, 7.8, 1.6, 9.8, nan, 12.2]",12.2,4.07
+Jerick McKinnon,RB,5600,SF,NO,"[13.4, 13.7, 16.7, 22.7, 2.5, 4.8, -0.1, 13.9, 15.8]",22.7,4.05
+Brandon Aiyuk,WR,5700,SF,NO,"[nan, 4.1, 21.1, 13.6, 7.4, 9.2, 17.5, 23.1, nan]",23.1,4.05
+Matthew Stafford,QB,5800,DET,WAS,"[17.2, 17.2, 18.5, 23.3, nan, 13.3, 18.4, 23.4, 10.4]",23.4,4.03
+Chris Carson,RB,6200,SEA,LAR,"[24.6, 19.8, 10.6, 25.0, 19.9, nan, 5.1, nan, nan]",25.0,4.03
+Ben Roethlisberger,QB,6200,PIT,CIN,"[22.1, 19.2, 19.2, nan, 21.4, 11.0, 15.6, 15.3, 25.0]",25.0,4.03
+Mike Evans,WR,6300,TB,CAR,"[7.2, 23.4, 14.2, 25.2, 15.1, 2.0, 5.7, 16.5, 10.4]",25.2,4.0
+DeSean Jackson,WR,3100,PHI,NYG,"[6.6, 12.4, 3.1, nan, nan, nan, 7.6, nan, nan]",12.4,4.0
+Collin Johnson,WR,3000,JAC,GB,"[2.4, 0.0, 1.3, 0.0, 12.0, 0.0, 2.3, nan, 1.9]",12.0,4.0
+Rob Gronkowski,TE,4700,TB,CAR,"[3.1, 0.0, 10.8, 3.9, 8.2, 18.8, 17.2, 14.1, 1.2]",18.8,4.0
+A.J. Green,WR,4400,CIN,PIT,"[10.1, 5.9, 8.6, 1.3, 0.0, 17.6, 15.2, 3.9, nan]",17.6,4.0
+Kenny Stills,WR,3000,HOU,CLE,"[0.0, 3.6, 6.5, 11.9, 2.4, 0.0, 5.4, nan, nan]",11.9,3.97
+Chris Godwin,WR,6000,TB,CAR,"[13.9, nan, 17.4, nan, nan, 9.8, 23.8, nan, 7.1]",23.8,3.97
+KJ Hamler,WR,3800,DEN,LV,"[nan, 8.7, 5.8, 0.0, nan, nan, 5.4, 10.3, 15.0]",15.0,3.95
+Donovan Peoples-Jones,WR,3700,CLE,HOU,"[nan, nan, nan, 0.0, 0.0, 0.0, 14.6, 0.0, nan]",14.6,3.95
+Los Angeles Chargers,DST,2800,LAC,MIA,"[11.0, 1.0, 2.0, 4.0, 3.0, nan, 8.0, 3.0, 2.0]",11.0,3.93
+Laviska Shenault Jr.,WR,3800,JAC,GB,"[13.7, 10.2, 8.4, 14.1, 14.9, 4.1, 7.4, nan, 0.9]",14.9,3.92
+Jason Witten,TE,2500,LV,DEN,"[1.2, 1.3, 0.0, 9.8, 2.6, nan, 1.6, 4.1, 1.0]",9.8,3.92
+Stefon Diggs,WR,7500,BUF,ARI,"[16.6, 29.3, 14.9, 17.5, 20.6, 16.6, 10.8, 15.2, 20.8]",29.3,3.91
+Seattle Seahawks,DST,2300,SEA,LAR,"[6.0, 3.0, 9.0, 5.0, 7.0, nan, 0.0, 7.0, 3.0]",9.0,3.91
+Chris Thompson,WR,3000,SF,NO,"[2.6, 11.7, 8.8, 0.0, 7.2, 4.5, nan, nan, 7.8]",11.7,3.9
+Aaron Rodgers,QB,7900,GB,JAC,"[30.8, 19.2, 24.5, 29.6, nan, 5.8, 27.3, 22.5, 28.9]",30.8,3.9
+Dion Lewis,RB,4000,NYG,PHI,"[0.1, 15.6, 2.0, 3.8, 2.1, 2.0, 0.3, 8.8, 4.1]",15.6,3.9
+Noah Fant,TE,4900,DEN,LV,"[19.1, 17.7, 9.6, 8.5, nan, nan, 6.8, 11.7, 7.5]",19.1,3.9
+Nick Chubb,RB,6800,CLE,HOU,"[5.6, 26.3, 24.0, 4.3, nan, nan, nan, nan, nan]",26.3,3.87
+Zack Moss,RB,5200,BUF,ARI,"[11.7, 3.7, nan, nan, nan, 1.0, 10.2, 20.1, 12.8]",20.1,3.87
+Virgil Green,TE,2500,LAC,MIA,"[2.0, 0.0, 0.0, 0.0, 2.4, nan, 9.6, nan, nan]",9.6,3.84
+Danny Amendola,WR,3900,DET,WAS,"[13.1, 4.1, 2.8, 7.7, nan, 5.1, 9.2, 8.4, 14.9]",14.9,3.82
+Tua Tagovailoa,QB,5600,MIA,LAC,"[nan, nan, nan, nan, nan, 0.4, nan, 5.7, 21.4]",21.4,3.82
+Tee Higgins,WR,5500,CIN,PIT,"[0.0, 6.5, 21.0, 13.0, 10.2, 18.7, 18.8, 14.4, nan]",21.0,3.82
+Dwayne Haskins,QB,5000,WAS,DET,"[12.8, 11.7, 12.2, 18.9, nan, nan, nan, nan, nan]",18.9,3.78
+DeAndre Hopkins,WR,7700,ARI,BUF,"[29.1, 20.8, 23.7, 11.1, 25.1, 9.3, 24.3, nan, 6.0]",29.1,3.78
+Cameron Brate,TE,2500,TB,CAR,"[0.0, 0.0, 0.0, 7.3, 9.4, 1.3, 1.8, 5.5, nan]",9.4,3.76
+Josh Hill,TE,2500,NO,SF,"[0.0, 2.6, 0.0, 1.7, 1.1, nan, 1.0, 1.7, 9.4]",9.4,3.76
+Terry McLaurin,WR,6800,WAS,DET,"[11.1, 25.5, 12.6, 21.8, 5.6, 14.4, 22.0, nan, 24.5]",25.5,3.75
+Houston Texans,DST,2400,HOU,CLE,"[0.0, 4.0, 1.0, 2.0, 9.0, 2.0, -4.0, nan, 4.0]",9.0,3.75
+Austin Mack,WR,3000,NYG,PHI,"[nan, nan, nan, nan, nan, 1.1, 0.0, nan, 11.2]",11.2,3.73
+Miles Sanders,RB,6400,PHI,NYG,"[nan, 20.1, 14.7, 9.6, 23.9, 12.2, nan, nan, nan]",23.9,3.73
+Cooper Kupp,WR,6900,LAR,SEA,"[8.0, 13.0, 25.7, 17.7, 11.6, 4.1, 11.9, 22.0, nan]",25.7,3.72
+Peyton Barber,RB,4000,WAS,DET,"[14.9, 0.1, 0.6, 0.5, 0.0, 2.0, 3.4, nan, nan]",14.9,3.72
+Drew Brees,QB,6400,NO,SF,"[14.4, 15.5, 23.5, 16.5, 22.1, nan, 23.7, 19.6, 22.7]",23.7,3.7
+Rashard Higgins,WR,4600,CLE,HOU,"[1.9, 0.0, nan, nan, 12.1, 8.3, 17.0, 2.4, nan]",17.0,3.7
+Darrell Henderson,RB,5900,LAR,SEA,"[0.6, 20.1, 19.0, 4.7, 21.8, 9.2, 9.7, 6.8, nan]",21.8,3.69
+Carlos Hyde,RB,4500,SEA,LAR,"[8.3, 5.7, 3.3, nan, nan, nan, 16.6, nan, nan]",16.6,3.69
+David Johnson,RB,5400,HOU,CLE,"[19.9, 7.0, 12.6, 11.2, 12.3, 13.9, 16.4, nan, 1.6]",19.9,3.69
+Austin Hooper,TE,3900,CLE,HOU,"[3.5, 4.2, 5.5, 14.4, 10.7, 10.2, nan, nan, nan]",14.4,3.69
+Eric Ebron,TE,4400,PIT,CIN,"[2.8, 7.3, 16.2, nan, 7.3, 2.9, 11.0, 14.8, 11.2]",16.2,3.68
+Donald Parham Jr.,TE,2500,LAC,MIA,"[nan, nan, nan, 8.9, 0.0, nan, 9.2, nan, 0.0]",9.2,3.68
+Justin Jackson,RB,4700,LAC,MIA,"[0.4, nan, nan, 4.1, 14.4, nan, 10.5, 17.2, nan]",17.2,3.66
+Kendrick Bourne,WR,4400,SF,NO,"[5.4, 10.7, 10.3, 6.3, 11.0, 6.4, 0.0, 16.1, nan]",16.1,3.66
+Larry Fitzgerald,WR,3900,ARI,BUF,"[7.4, 12.0, 1.0, 2.4, 7.5, 5.2, 14.2, nan, 9.4]",14.2,3.64
+Will Fuller V,WR,6700,HOU,CLE,"[19.2, 0.0, 15.4, 22.8, 15.8, 24.3, 12.5, nan, 21.0]",24.3,3.63
+Devonta Freeman,RB,4600,NYG,PHI,"[nan, nan, 1.0, 10.8, 16.7, 6.7, 0.8, nan, nan]",16.7,3.63
+Marvin Jones Jr.,WR,5200,DET,WAS,"[9.5, 12.3, 8.1, 1.9, nan, 2.8, 13.0, 18.9, 13.3]",18.9,3.63
+Troymaine Pope,RB,4000,LAC,MIA,"[nan, nan, nan, nan, 0.0, nan, 0.6, 14.5, nan]",14.5,3.62
+James Conner,RB,6900,PIT,CIN,"[3.7, 20.1, 24.9, nan, 15.3, 17.2, 14.1, 15.0, 4.0]",24.9,3.61
+Kareem Hunt,RB,6700,CLE,HOU,"[12.1, 24.1, 14.4, 19.1, 18.3, 7.7, 19.2, 9.3, nan]",24.1,3.6
+T.J. Yeldon,RB,4000,BUF,ARI,"[nan, nan, 1.8, 0.0, 14.4, nan, nan, nan, nan]",14.4,3.6
+Las Vegas Raiders,DST,2500,LV,DEN,"[0.0, 2.0, 3.0, 0.0, 4.0, nan, -4.0, 9.0, 4.0]",9.0,3.6
+Adrian Peterson,RB,4000,DET,WAS,"[14.4, 4.1, 9.5, 9.6, nan, 12.8, 4.0, 2.2, 7.3]",14.4,3.6
+John Brown,WR,5300,BUF,ARI,"[19.0, 18.2, 0.0, 8.2, nan, 0.0, nan, 3.1, 17.9]",19.0,3.58
+Sterling Shepard,WR,5000,NYG,PHI,"[10.7, 5.5, nan, nan, nan, nan, 17.9, 15.4, 11.7]",17.9,3.58
+Isaiah McKenzie,WR,3000,BUF,ARI,"[4.7, 6.7, 2.0, 3.9, 10.7, 1.4, 2.3, nan, 9.6]",10.7,3.57
+Will Dissly,TE,2500,SEA,LAR,"[2.8, 1.9, 2.5, 3.5, 8.9, nan, 5.8, 2.7, 3.6]",8.9,3.56
+Brett Rypien,QB,4000,DEN,LV,"[nan, nan, 1.1, 14.2, nan, nan, 0.0, nan, nan]",14.2,3.55
+Kyle Allen,QB,4800,WAS,DET,"[nan, nan, nan, nan, 9.7, 17.0, 16.9, nan, 2.5]",17.0,3.54
+Marcedes Lewis,TE,2500,GB,JAC,"[0.0, 1.4, 8.8, nan, nan, 0.0, 1.9, 0.0, 7.1]",8.8,3.52
+Evan Engram,TE,4500,NYG,PHI,"[2.9, 12.5, 5.2, 9.5, 9.5, 5.0, 10.9, 12.0, 15.8]",15.8,3.51
+J.D. McKissic,RB,4900,WAS,DET,"[0.9, 5.3, 8.2, 9.6, 10.9, 14.4, 7.1, nan, 17.2]",17.2,3.51
+Jared Cook,TE,4600,NO,SF,"[13.0, 9.3, 4.1, nan, 13.2, nan, 12.2, 16.1, 3.0]",16.1,3.5
+Ray-Ray McCloud,WR,3000,PIT,CIN,"[0.0, 0.0, 0.0, nan, 10.5, 0.0, 3.2, 1.6, 3.6]",10.5,3.5
+Zach Ertz,TE,4000,PHI,NYG,"[10.8, 9.2, 14.0, 6.9, 1.6, 7.3, nan, nan, nan]",14.0,3.5
+Hunter Henry,TE,4100,LAC,MIA,"[12.3, 14.3, 10.0, 5.9, 12.3, nan, 5.3, 7.3, 7.3]",14.3,3.49
+Myles Gaskin,RB,5800,MIA,LAC,"[10.6, 14.2, 14.5, 9.2, 20.1, 16.6, nan, 13.3, nan]",20.1,3.47
+Chase Edmonds,RB,6300,ARI,BUF,"[13.5, 4.3, 5.4, 15.0, 20.2, 3.9, 21.5, nan, 11.8]",21.5,3.41
+Darrell Daniels,TE,2700,ARI,BUF,"[0.0, 0.0, 4.4, 0.0, 5.7, 1.1, 0.0, nan, 9.1]",9.1,3.37
+Tyler Johnson,WR,3000,TB,CAR,"[nan, nan, 0.0, 0.0, 10.1, 7.7, 8.4, 5.5, 2.1]",10.1,3.37
+Nick Mullens,QB,5300,SF,NO,"[nan, 1.6, 17.7, 8.0, nan, nan, nan, 17.5, 12.6]",17.7,3.34
+Deebo Samuel,WR,5400,SF,NO,"[nan, nan, nan, 7.5, 4.2, 18.0, 12.2, nan, nan]",18.0,3.33
+Cincinnati Bengals,DST,2100,CIN,PIT,"[3.0, -2.0, 7.0, 5.0, 3.0, 4.0, -2.0, 4.0, nan]",7.0,3.33
+T.J. Hockenson,TE,5100,DET,WAS,"[16.6, 10.2, 9.3, 10.9, nan, 9.7, 16.9, 13.5, 14.9]",16.9,3.31
+Kalen Ballage,RB,5000,LAC,MIA,"[nan, 3.7, 10.2, 3.1, nan, nan, nan, nan, 16.4]",16.4,3.28
+Golden Tate,WR,3600,NYG,PHI,"[nan, 9.7, 8.6, 6.0, 8.2, 2.1, 10.9, 11.8, nan]",11.8,3.28
+Ian Thomas,TE,2600,CAR,TB,"[3.6, 0.0, 1.9, 8.5, 0.0, 1.9, 2.1, 5.8, 1.8]",8.5,3.27
+Green Bay Packers,DST,3700,GB,JAC,"[5.0, 12.0, 3.0, 5.0, nan, -1.0, 6.0, 0.0, 6.0]",12.0,3.24
+James O'Shaughnessy,TE,2500,JAC,GB,"[1.0, 8.0, 5.9, 3.6, 5.0, 0.0, 6.2, nan, 1.9]",8.0,3.2
+Courtland Sutton,WR,3000,DEN,LV,"[nan, 9.6, nan, nan, nan, nan, nan, nan, nan]",9.6,3.2
+Devontae Booker,RB,4000,LV,DEN,"[8.2, 1.5, 3.1, 0.0, 7.7, nan, 3.4, 5.6, 12.8]",12.8,3.2
+Dan Arnold,TE,2500,ARI,BUF,"[4.1, 4.6, 2.1, 7.9, 0.0, 0.0, 7.7, nan, 2.6]",7.9,3.16
+Taysom Hill,QB,4600,NO,SF,"[5.2, 0.8, -0.3, 2.4, 7.3, nan, 0.6, 14.5, 10.4]",14.5,3.15
+Saquon Barkley,RB,4000,NYG,PHI,"[12.6, 2.8, nan, nan, nan, nan, nan, nan, nan]",12.6,3.15
+Jalen Reagor,WR,4200,PHI,NYG,"[6.5, 8.1, nan, nan, nan, nan, nan, 13.2, nan]",13.2,3.14
+Phillip Lindsay,RB,5000,DEN,LV,"[4.5, nan, nan, nan, nan, 10.1, 7.9, 15.6, 2.3]",15.6,3.12
+Johnny Mundt,TE,2500,LAR,SEA,"[0.0, 0.0, 0.0, 1.5, 0.0, 0.0, 7.7, nan, nan]",7.7,3.08
+Duke Johnson Jr.,RB,5000,HOU,CLE,"[1.4, nan, nan, 7.5, 2.9, 2.1, 9.2, nan, 15.3]",15.3,3.06
+Jace Sternberger,TE,2500,GB,JAC,"[0.0, 0.0, 6.6, 0.0, nan, 0.0, 7.3, 7.6, 1.1]",7.6,3.04
+Freddie Swain,WR,3000,SEA,LAR,"[2.7, 9.1, 2.3, 5.2, 3.4, nan, 0.0, nan, 0.0]",9.1,3.03
+Boston Scott,RB,6000,PHI,NYG,"[7.4, 7.3, 0.5, 0.1, 0.3, 2.9, 18.2, 9.9, nan]",18.2,3.03
+Joshua Kelley,RB,4400,LAC,MIA,"[12.0, 13.3, 5.2, 4.3, 4.8, nan, 10.3, 3.5, 10.9]",13.3,3.02
+Kenny Golladay,WR,5900,DET,WAS,"[nan, nan, 17.7, 16.2, nan, 14.5, 17.4, 0.0, nan]",17.7,3.0
+Durham Smythe,TE,2500,MIA,LAC,"[0.0, 0.0, 1.7, 5.0, nan, 7.4, nan, 3.6, 2.9]",7.4,2.96
+Maxx Williams,TE,2500,ARI,BUF,"[0.0, nan, nan, nan, nan, nan, nan, nan, 7.4]",7.4,2.96
+Jakeem Grant,WR,3000,MIA,LAC,"[5.5, 1.2, 5.8, 6.6, 0.4, 8.8, nan, 8.5, 7.5]",8.8,2.93
+Jordan Thomas,TE,2500,ARI,BUF,"[nan, 0.0, 0.0, 7.3, nan, 0.0, nan, nan, nan]",7.3,2.92
+Chris Thompson,RB,4000,JAC,GB,"[2.6, 11.7, 8.8, 0.0, 7.2, 4.5, nan, nan, 7.8]",11.7,2.92
+Malik Taylor,WR,3000,GB,JAC,"[0.0, 0.0, 0.0, 3.0, nan, 0.0, 8.6, 3.6, 0.9]",8.6,2.87
+Jaydon Mickens,WR,3000,TB,CAR,"[0.0, 0.0, 0.0, 0.0, 4.2, 0.0, 0.0, 8.6, 0.0]",8.6,2.87
+Reggie Gilliam,TE,2500,BUF,ARI,"[0.0, 7.1, 0.0, 0.0, 0.0, 0.0, 2.5, 0.0, nan]",7.1,2.84
+Lee Smith,TE,2500,BUF,ARI,"[nan, nan, 7.1, nan, nan, 0.0, nan, nan, nan]",7.1,2.84
+Zay Jones,WR,3000,LV,DEN,"[0.0, 8.5, 6.2, 7.2, 1.2, nan, 0.0, nan, nan]",8.5,2.83
+Benny Snell Jr.,RB,4000,PIT,CIN,"[11.3, -0.9, 1.1, nan, 1.9, 9.1, 6.2, nan, 0.1]",11.3,2.82
+Tyler Ervin,RB,4000,GB,JAC,"[5.4, 1.4, 3.3, 1.8, nan, nan, nan, 1.7, 11.2]",11.2,2.8
+Van Jefferson,WR,3000,LAR,SEA,"[4.1, 8.4, 0.0, 0.0, 0.0, 1.8, 2.4, 4.3, nan]",8.4,2.8
+Quintez Cephus,WR,3000,DET,WAS,"[7.3, 8.4, 0.0, 0.0, nan, nan, nan, nan, 5.1]",8.4,2.8
+Travis Homer,RB,4000,SEA,LAR,"[2.3, 2.1, 1.9, 7.8, 1.4, nan, 1.0, 0.4, 11.0]",11.0,2.75
+Mack Hollins,WR,3000,MIA,LAC,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, 8.1]",8.1,2.7
+Alex Smith,QB,5200,WAS,DET,"[nan, nan, nan, nan, 1.6, nan, nan, nan, 14.0]",14.0,2.69
+Detroit Lions,DST,2600,DET,WAS,"[1.0, -3.0, 7.0, 0.0, nan, 6.0, 4.0, -2.0, 0.0]",7.0,2.69
+Justin Watson,WR,3000,TB,CAR,"[1.6, 6.8, nan, 8.0, nan, 0.0, 0.0, 0.0, nan]",8.0,2.67
+Steven Sims,WR,3000,WAS,DET,"[8.0, 6.3, 0.0, nan, nan, nan, nan, nan, 1.4]",8.0,2.67
+Kyle Juszczyk,RB,4000,SF,NO,"[5.8, 2.6, 1.7, 2.3, 7.1, 1.8, 10.6, 4.1, 1.4]",10.6,2.65
+Ke'Shawn Vaughn,RB,4000,TB,CAR,"[nan, 0.0, nan, 10.6, 0.5, 4.2, 0.0, nan, nan]",10.6,2.65
+Vance McDonald,TE,2500,PIT,CIN,"[1.3, 1.3, 6.5, nan, 1.4, 0.0, 3.4, nan, 1.2]",6.5,2.6
+Samaje Perine,RB,4000,CIN,PIT,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.6, 10.4, nan]",10.4,2.6
+Jarvis Landry,WR,5900,CLE,HOU,"[11.1, 7.6, 7.6, 15.3, 12.8, 7.0, 11.0, 9.2, nan]",15.3,2.59
+Joe Reed,WR,3000,LAC,MIA,"[0.0, 0.8, 0.0, nan, nan, nan, 7.4, 0.0, 0.7]",7.4,2.47
+D'Ernest Johnson,RB,4000,CLE,HOU,"[0.5, 0.0, 0.0, 9.5, 4.6, 0.1, 0.3, 2.1, nan]",9.5,2.38
+Kerryon Johnson,RB,4000,DET,WAS,"[1.4, 9.2, 4.0, 2.2, nan, 3.0, 0.0, 9.5, 9.5]",9.5,2.38
+Ross Dwelley,TE,3800,SF,NO,"[0.0, 1.5, 8.9, 0.0, 0.0, 0.0, 0.0, 8.6, 8.2]",8.9,2.34
+Isaiah Wright,WR,3000,WAS,DET,"[0.0, nan, 7.0, 6.9, 1.3, 6.6, nan, nan, 4.0]",7.0,2.33
+John Hightower,WR,3000,PHI,NYG,"[0.8, 0.0, 3.9, 4.2, 5.8, 6.0, 6.9, 0.0, nan]",6.9,2.3
+Bryan Edwards,WR,3000,LV,DEN,"[1.9, 6.2, 6.8, nan, nan, nan, nan, nan, nan]",6.8,2.27
+Jalen Richard,RB,4000,LV,DEN,"[2.5, 8.6, 5.2, 3.6, 7.0, nan, 2.4, 2.8, 3.2]",8.6,2.15
+Alec Ingold,RB,4000,LV,DEN,"[0.0, 8.5, 2.1, 4.8, 4.5, nan, 3.1, 0.3, 1.6]",8.5,2.12
+JaMycal Hasty,RB,4800,SF,NO,"[nan, nan, 2.8, 0.0, 0.0, 3.7, 8.3, 10.1, 3.3]",10.1,2.1
+Trent Taylor,WR,3000,SF,NO,"[2.7, 3.0, 3.0, 0.0, 0.0, 1.8, 0.0, 6.2, 1.9]",6.2,2.07
+C.J. Board,WR,3000,NYG,PHI,"[3.7, 6.2, 1.9, 0.3, 0.0, 1.8, nan, nan, 2.0]",6.2,2.07
+Alfred Morris,RB,4000,NYG,PHI,"[nan, nan, nan, nan, nan, nan, nan, 2.8, 8.1]",8.1,2.02
+KhaDarel Hodge,WR,3000,CLE,HOU,"[2.2, 5.9, 0.0, nan, nan, nan, nan, nan, nan]",5.9,1.97
+Matt Breida,RB,4000,MIA,LAC,"[2.2, 4.9, 0.4, 7.8, 6.9, 4.2, nan, 1.3, nan]",7.8,1.95
+Pharaoh Brown,TE,2500,HOU,CLE,"[nan, nan, 0.0, 0.0, 1.4, 4.8, 0.0, nan, 0.0]",4.8,1.92
+Jordan Howard,RB,4200,MIA,LAC,"[6.7, 6.4, 6.1, 0.9, nan, nan, nan, nan, 7.9]",7.9,1.88
+Gabe Nabers,RB,4000,LAC,MIA,"[0.0, 0.0, 0.0, 1.9, 0.0, nan, 0.0, 7.2, 7.4]",7.4,1.85
+Nick Vannett,TE,2500,DEN,LV,"[0.4, 0.0, nan, 1.7, nan, 1.7, 4.5, nan, 2.1]",4.5,1.8
+Kaden Smith,TE,2500,NYG,PHI,"[3.7, 1.9, 2.3, 2.0, 1.7, 4.5, 0.0, 1.6, 1.8]",4.5,1.8
+LeSean McCoy,RB,4000,TB,CAR,"[1.2, 7.1, 4.4, 1.6, nan, 1.7, nan, nan, nan]",7.1,1.78
+Tyrod Taylor,QB,5300,LAC,MIA,"[9.0, nan, nan, nan, nan, nan, nan, nan, 0.0]",9.0,1.7
+Dawson Knox,TE,2900,BUF,ARI,"[4.6, 2.6, nan, 3.6, 2.5, nan, nan, nan, nan]",4.6,1.59
+JJ Arcega-Whiteside,WR,3000,PHI,NYG,"[0.0, 0.0, 0.0, nan, 4.7, 2.0, 1.8, nan, nan]",4.7,1.57
+Cam Akers,RB,4200,LAR,SEA,"[5.3, 1.3, nan, nan, 6.1, 0.0, nan, 6.4, nan]",6.4,1.52
+Tevin Coleman,RB,4000,SF,NO,"[3.4, 6.0, nan, nan, nan, nan, nan, 2.0, nan]",6.0,1.5
+Anthony McFarland Jr.,RB,4000,PIT,CIN,"[nan, nan, 5.9, nan, 0.6, 1.8, 0.6, 0.1, 4.2]",5.9,1.48
+KeeSean Johnson,WR,3000,ARI,BUF,"[nan, nan, 4.4, nan, 1.5, nan, nan, nan, nan]",4.4,1.47
+Chase Daniel,QB,5000,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, 7.3]",7.3,1.46
+Royce Freeman,RB,4000,DEN,LV,"[2.2, 2.0, 5.5, 3.2, nan, 4.0, 2.7, nan, nan]",5.5,1.38
+Darrius Shepherd,WR,3000,GB,JAC,"[nan, nan, 0.0, 4.1, nan, 2.6, 0.0, 1.6, 1.3]",4.1,1.37
+Cethan Carter,TE,2500,CIN,PIT,"[0.0, 0.0, 1.1, 3.4, 0.0, 0.0, nan, 1.2, nan]",3.4,1.36
+Michael Thomas,WR,7400,NO,SF,"[4.7, nan, nan, nan, nan, nan, nan, nan, 10.1]",10.1,1.36
+Brandon Zylstra,WR,3000,CAR,TB,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.4, nan, 3.8]",3.8,1.27
+John Ross,WR,3000,CIN,PIT,"[3.7, 0.0, nan, nan, nan, 0.0, nan, nan, nan]",3.7,1.23
+Ryan Griffin,QB,4000,TB,CAR,"[0.0, 0.0, 0.0, 4.0, 0.0, 3.7, 0.0, 0.0, 4.8]",4.8,1.2
+AJ Dillon,RB,4000,GB,JAC,"[1.4, 1.7, 0.0, 0.3, nan, 3.1, 1.1, 4.7, nan]",4.7,1.18
+Trenton Cannon,RB,4000,CAR,TB,"[0.0, 0.0, nan, nan, -0.1, 4.7, 0.7, nan, nan]",4.7,1.18
+Ty Montgomery,RB,4000,NO,SF,"[-0.4, 4.5, nan, nan, nan, nan, nan, nan, nan]",4.5,1.12
+C.J. Beathard,QB,5200,SF,NO,"[nan, nan, nan, 5.5, 5.8, nan, nan, nan, nan]",5.8,1.12
+Chris Manhertz,TE,2500,CAR,TB,"[1.4, 1.8, 0.0, 2.7, 0.0, 1.6, 0.0, 1.6, nan]",2.7,1.08
+Antonio Brown,WR,5800,TB,CAR,"[nan, nan, nan, nan, nan, nan, nan, nan, 6.1]",6.1,1.05
+Bennie Fowler III,WR,3000,NO,SF,"[0.0, 0.0, 0.0, 0.0, 3.1, nan, nan, nan, nan]",3.1,1.03
+Corey Clement,RB,4000,PHI,NYG,"[4.1, 0.0, 0.8, 0.3, 0.0, 0.0, 3.1, 3.8, nan]",4.1,1.02
+Salvon Ahmed,RB,4000,MIA,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan, 3.8]",3.8,0.95
+Levine Toilolo,TE,2500,NYG,PHI,"[2.3, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.9, 1.0]",2.3,0.92
+Tanner Hudson,TE,2500,TB,CAR,"[nan, 0.0, 0.0, 0.0, 1.9, 0.0, 2.2, 0.0, nan]",2.2,0.88
+Josiah Deguara,TE,2500,GB,JAC,"[2.2, nan, nan, 0.0, nan, nan, nan, nan, nan]",2.2,0.88
+Alex Erickson,WR,3000,CIN,PIT,"[0.0, 0.0, 0.0, 2.6, 0.0, 0.0, 0.0, 0.0, nan]",2.6,0.87
+Jalen Hurts,QB,4200,PHI,NYG,"[nan, 0.0, 0.8, 1.8, 0.7, 3.6, 0.2, 0.4, nan]",3.6,0.86
+K.J. Hill,WR,3000,LAC,MIA,"[0.0, 0.0, 2.5, 0.0, 1.8, nan, nan, 0.0, -2.0]",2.5,0.83
+Ben Ellefson,TE,2500,JAC,GB,"[0.0, 0.0, nan, nan, nan, nan, 2.0, nan, nan]",2.0,0.8
+Stephen Carlson,TE,2500,CLE,HOU,"[0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, nan]",2.0,0.8
+Temarrick Hemingway,TE,2500,WAS,DET,"[nan, nan, nan, nan, 2.0, 0.0, 0.0, nan, nan]",2.0,0.8
+Dontrell Hilliard,RB,4000,CLE,HOU,"[nan, nan, nan, 3.1, 0.0, 2.9, 0.0, nan, nan]",3.1,0.78
+Keith Kirkwood,WR,3000,CAR,TB,"[nan, nan, nan, nan, nan, 2.3, nan, nan, nan]",2.3,0.77
+Antonio Gandy-Golden,WR,3000,WAS,DET,"[nan, 1.3, 2.2, 0.0, 0.0, 0.0, nan, nan, nan]",2.2,0.73
+Equanimeous St. Brown,WR,3000,GB,JAC,"[nan, nan, nan, nan, nan, 0.0, 0.0, 2.2, nan]",2.2,0.73
+Pharoh Cooper,WR,3000,CAR,TB,"[0.0, 0.0, 0.0, 0.0, 2.2, 0.0, 0.0, 0.0, 0.0]",2.2,0.73
+Patrick Laird,RB,4000,MIA,LAC,"[2.9, 0.0, 0.0, 0.0, 0.0, 1.2, nan, nan, 2.6]",2.9,0.72
+Jeremy Sprinkle,TE,2500,WAS,DET,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.6, nan, nan]",1.6,0.64
+DeAndre Carter,WR,3000,HOU,CLE,"[1.8, 0.0, 0.0, -2.0, 0.0, 0.0, 0.0, nan, 0.0]",1.8,0.6
+Jake Butt,TE,2500,DEN,LV,"[1.0, 0.0, 1.5, 0.0, nan, 0.0, nan, nan, nan]",1.5,0.6
+Alex Armah,RB,4000,CAR,TB,"[0.1, 2.4, 0.0, 0.2, 0.2, 0.0, 0.1, nan, nan]",2.4,0.6
+Michael Burton,RB,4000,NO,SF,"[0.0, 0.0, 0.0, 1.7, 0.2, nan, 0.0, 0.1, 2.3]",2.3,0.57
+Andy Janovich,RB,4000,CLE,HOU,"[0.0, 1.0, 2.3, 0.0, 0.4, 0.0, 0.0, 0.0, nan]",2.3,0.57
+Diontae Spencer,WR,3000,DEN,LV,"[0.0, 0.0, 1.7, 0.0, nan, 0.9, nan, nan, nan]",1.7,0.57
+Tyrie Cleveland,WR,3000,DEN,LV,"[1.7, nan, 0.0, 0.0, nan, 0.0, 0.0, 0.0, 0.0]",1.7,0.57
+Trent Sherfield,WR,3000,ARI,BUF,"[0.0, 0.0, 0.0, 0.0, 1.6, 0.0, 0.0, nan, nan]",1.6,0.53
+Elijhaa Penny,RB,4000,NYG,PHI,"[nan, 0.0, 0.0, 0.0, 0.3, 0.0, 0.0, 2.1, 0.2]",2.1,0.52
+Isaac Nauta,TE,2500,DET,WAS,"[nan, nan, nan, nan, nan, 0.0, 1.3, nan, nan]",1.3,0.52
+D.J. Foster,RB,4000,ARI,BUF,"[0.0, 0.0, nan, nan, nan, nan, nan, nan, 1.9]",1.9,0.48
+Dede Westbrook,WR,3000,JAC,GB,"[nan, nan, 1.4, nan, nan, nan, -2.0, nan, nan]",1.4,0.47
+Andre Roberts,WR,3000,BUF,ARI,"[0.0, 0.0, 0.0, 1.3, 0.6, 0.0, 0.0, 0.0, 0.0]",1.3,0.43
+DeAndre Washington,RB,4100,MIA,LAC,"[nan, nan, nan, nan, nan, nan, 1.7, nan, nan]",1.7,0.41
+Cullen Gillaspia,RB,4000,HOU,CLE,"[nan, 0.0, 1.6, nan, 0.0, 0.0, 0.0, nan, 0.0]",1.6,0.4
+Chandler Cox,RB,4000,MIA,LAC,"[0.0, 0.0, 0.0, 1.3, 1.6, 0.0, nan, nan, nan]",1.6,0.4
+Malcolm Perry,RB,4000,MIA,LAC,"[nan, nan, nan, nan, nan, nan, nan, 1.5, 0.0]",1.5,0.38
+Keke Coutee,WR,3000,HOU,CLE,"[nan, 1.1, nan, nan, nan, nan, nan, nan, nan]",1.1,0.37
+Case Keenum,QB,5000,CLE,HOU,"[nan, nan, nan, nan, nan, 1.8, nan, nan, nan]",1.8,0.36
+Jaylen Samuels,RB,4000,PIT,CIN,"[1.3, 1.4, 0.1, nan, 0.0, 0.0, 0.5, 0.0, nan]",1.4,0.35
+Jason Huntley,RB,4000,PHI,NYG,"[0.1, nan, nan, nan, nan, 0.0, 1.3, 0.0, nan]",1.3,0.32
+Theo Riddick,RB,4000,LV,DEN,"[nan, nan, nan, 1.3, nan, nan, nan, nan, nan]",1.3,0.32
+Lynn Bowden Jr.,WR,3000,MIA,LAC,"[nan, 0.9, nan, 0.5, 0.4, 0.0, nan, nan, nan]",0.9,0.3
+John Lovett,TE,2500,GB,JAC,"[0.0, 0.0, 0.0, 0.0, nan, 0.0, 0.0, nan, 0.6]",0.6,0.24
+Dwayne Washington,RB,4000,NO,SF,"[nan, nan, 0.0, 0.0, 0.0, nan, 0.0, 0.0, 0.9]",0.9,0.22
+Matt Barkley,QB,4200,BUF,ARI,"[nan, nan, nan, nan, 0.9, nan, nan, nan, nan]",0.9,0.21
+Dexter Williams,RB,4000,GB,JAC,"[nan, nan, nan, nan, nan, nan, 0.0, nan, 0.8]",0.8,0.2
+Alex Collins,RB,4000,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, 0.5]",0.5,0.12
+JoJo Natson,WR,3000,CLE,HOU,"[0.0, 0.0, 0.3, nan, nan, nan, nan, nan, nan]",0.3,0.1
+Chris Streveler,QB,4000,ARI,BUF,"[0.3, 0.0, 0.0, nan, nan, nan, nan, nan, nan]",0.3,0.08
+Blaine Gabbert,QB,4000,TB,CAR,"[nan, nan, nan, nan, nan, 0.2, nan, nan, -0.1]",0.2,0.05
+Jameis Winston,QB,5100,NO,SF,"[nan, nan, nan, nan, nan, nan, nan, nan, 0.2]",0.2,0.04
+Mason Rudolph,QB,4100,PIT,CIN,"[nan, nan, nan, nan, nan, -0.1, nan, nan, 0.1]",0.1,0.02
+Easton Stick,QB,4000,LAC,MIA,"[nan, nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
+Antony Auclair,TE,2500,TB,CAR,"[0.0, nan, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
+Trey Edmunds,RB,4000,PIT,CIN,"[nan, nan, nan, nan, 0.0, nan, 0.0, 0.0, nan]",0.0,0.0
+Xavier Jones,RB,4000,LAR,SEA,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, nan]",0.0,0.0
+Stephen Anderson,TE,2500,LAC,MIA,"[0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, nan, 0.0]",0.0,0.0
+Ryan Finley,QB,4300,CIN,PIT,"[nan, nan, 0.0, nan, nan, nan, nan, nan, nan]",0.0,0.0
+Tim Boyle,QB,4100,GB,JAC,"[-0.2, -0.1, nan, -0.1, nan, 0.0, -0.1, nan, -0.1]",0.0,0.0
+Mason Schreck,TE,2500,CIN,PIT,"[nan, nan, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
+Clark Harris,TE,2500,CIN,PIT,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
+Raymond Calais,RB,4000,LAR,SEA,"[nan, nan, 0.0, 0.0, nan, nan, 0.0, nan, nan]",0.0,0.0
+Jonathan Ward,RB,4000,ARI,BUF,"[nan, nan, 0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0]",0.0,0.0
+Colin Thompson,TE,2500,CAR,TB,"[nan, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0
+Jeremy Cox,RB,4000,DEN,LV,"[nan, nan, nan, nan, nan, 0.0, 0.0, 0.0, nan]",0.0,0.0
+Trayveon Williams,RB,4000,CIN,PIT,"[nan, nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
+Dante Pettis,WR,3000,NYG,PHI,"[0.0, 0.0, 0.0, 0.0, nan, nan, nan, -2.0, nan]",0.0,0.0
+Quez Watkins,WR,3000,PHI,NYG,"[nan, nan, nan, nan, 0.0, 0.0, nan, nan, nan]",0.0,0.0
+Devine Ozigbo,RB,4000,JAC,GB,"[nan, nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
+Buddy Howell,RB,4000,HOU,CLE,"[0.0, 0.0, 0.0, 0.0, nan, nan, 0.0, nan, nan]",0.0,0.0
+Dare Ogunbowale,RB,4000,JAC,GB,"[nan, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
+Scottie Phillips,RB,4000,HOU,CLE,"[0.0, nan, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
+Charlie Woerner,TE,2800,SF,NO,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
+LeVante Bellamy,RB,4000,DEN,LV,"[nan, 0.0, 0.0, 0.0, nan, nan, nan, nan, nan]",0.0,0.0
+Eric Tomlinson,TE,2500,NYG,PHI,"[0.0, nan, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
+Taywan Taylor,WR,3000,CLE,HOU,"[nan, nan, nan, nan, nan, 0.0, nan, nan, nan]",0.0,0.0
+Derek Carrier,TE,2500,LV,DEN,"[0.0, 0.0, 0.0, 0.0, 0.0, nan, 0.0, nan, 0.0]",0.0,0.0
+Taiwan Jones,RB,4000,BUF,ARI,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan]",0.0,0.0
+Tyler Davis,TE,2500,JAC,GB,"[nan, nan, 0.0, 0.0, 0.0, 0.0, nan, nan, nan]",0.0,0.0
+Jeff Badet,WR,3000,WAS,DET,"[nan, nan, nan, nan, nan, nan, 0.0, nan, nan]",0.0,0.0
+Penny Hart,WR,3000,SEA,LAR,"[0.0, nan, 0.0, 0.0, 0.0, nan, nan, 0.0, 0.0]",0.0,0.0
+Derek Watt,RB,4000,PIT,CIN,"[0.0, 0.0, 0.0, nan, nan, 0.0, nan, nan, nan]",0.0,0.0
+Kahale Warring,TE,2500,HOU,CLE,"[0.0, nan, nan, nan, nan, nan, nan, nan, nan]",0.0,0.0
+Nsimba Webster,WR,3000,LAR,SEA,"[0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan]",0.0,0.0
+AJ McCarron,QB,4800,HOU,CLE,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+P.J. Walker,QB,4700,CAR,TB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Mike Glennon,QB,4600,JAC,GB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Marcus Mariota,QB,4500,LV,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Wayne Gallman Jr.,RB,4500,NYG,PHI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Will Grier,QB,4400,CAR,TB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Nathan Peterman,QB,4300,LV,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Geno Smith,QB,4100,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+David Blough,QB,4000,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Bryce Love,RB,4000,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jonathan Williams,RB,4000,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jason Cabinda,RB,4000,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Richie James,WR,4000,SF,NO,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jordan Love,QB,4000,GB,JAC,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Ryquell Armstead,RB,4000,JAC,GB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Patrick Taylor,RB,4000,GB,JAC,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+John Wolford,QB,4000,LAR,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Rashaad Penny,RB,4000,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Nick Bellore,RB,4000,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Brett Hundley,QB,4000,ARI,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jake Fromm,QB,4000,BUF,ARI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Eno Benjamin,RB,4000,ARI,BUF,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Colt McCoy,QB,4000,NYG,PHI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Nate Sudfeld,QB,4000,PHI,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Alshon Jeffery,WR,4000,PHI,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+T.J. Logan,RB,4000,TB,CAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Josh Dobbs,QB,4000,PIT,CIN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Robert Foster,WR,3000,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Tony Brown,WR,3000,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Kelvin Harmon,WR,3000,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Emanuel Hall,WR,3000,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jamal Agnew,WR,3000,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Tyrell Williams,WR,3000,LV,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Rico Gafford,WR,3000,LV,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jalen Hurd,WR,3000,SF,NO,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Phillip Dorsett II,WR,3000,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Josh Gordon,WR,3000,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Trishton Jackson,WR,3000,LAR,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Jake Kumerow,WR,3000,BUF,ARI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Isaiah Hodgins,WR,3000,BUF,ARI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Isaiah Coulter,WR,3000,HOU,CLE,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+David Sills,WR,3000,NYG,PHI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Cody Core,WR,3000,NYG,PHI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Marken Michel,WR,3000,CAR,TB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Omar Bayless,WR,3000,CAR,TB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+John Franklin III,WR,3000,TB,CAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Kirk Merritt,WR,3000,MIA,LAC,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Thaddeus Moss,TE,2500,WAS,DET,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Hunter Bryant,TE,2500,DET,WAS,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Nick O'Leary,TE,2500,LV,DEN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Austin Fort,TE,2500,DEN,LV,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Zach Wood,TE,2500,NO,SF,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Josh Oliver,TE,2500,JAC,GB,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Colby Parkinson,TE,2500,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Tyler Ott,TE,2500,SEA,LAR,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Brycen Hopkins,TE,2500,LAR,SEA,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Tommy Sweeney,TE,2500,BUF,ARI,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Joshua Perkins,TE,2500,PHI,NYG,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
+Zach Gentry,TE,2500,PIT,CIN,"[nan, nan, nan, nan, nan, nan, nan, nan, nan]",,
